@@ -1,0 +1,453 @@
+# id: coding
+# title: Java: Vector3 クラス
+# title_en: Java: Vector3 class
+# title_ko: Java: Vector3 클래스
+# note: Original Java source written for this app. Kanji in comments carry readings; indentation is shown but not typed.
+
+jp: import java.util.Objects;
+en: Import the Objects utility class.
+ko: Objects 유틸리티 클래스를 임포트한다.
+
+jp: // ベクトル{型|がた}の{共通|きょうつう}{操作|そうさ}を{定義|ていぎ}する
+en: // Defines the common operations of a vector type
+ko: // 벡터 타입의 공통 연산을 정의한다
+
+jp: interface VectorType<T> {
+en: Declare the generic VectorType interface.
+ko: 제네릭 VectorType 인터페이스를 선언한다.
+
+jp:     T add(T other); // {和|わ}を{返|かえ}す
+en:     T add(T other); // returns the sum
+ko:     T add(T other); // 합을 반환한다
+
+jp:     T subtract(T other); // {差|さ}を{返|かえ}す
+en:     T subtract(T other); // returns the difference
+ko:     T subtract(T other); // 차를 반환한다
+
+jp:     T multiply(double scalar); // スカラー{倍|ばい}
+en:     T multiply(double scalar); // scalar multiplication
+ko:     T multiply(double scalar); // 스칼라 배
+
+jp:     T divide(double scalar); // スカラーで{割|わ}る
+en:     T divide(double scalar); // divide by a scalar
+ko:     T divide(double scalar); // 스칼라로 나눈다
+
+jp:     double dot(T other); // {内積|ないせき}
+en:     double dot(T other); // dot product
+ko:     double dot(T other); // 내적
+
+jp:     double length(); // {長|なが}さ
+en:     double length(); // length
+ko:     double length(); // 길이
+
+jp:     double lengthSquared(); // {長|なが}さの{二乗|にじょう}
+en:     double lengthSquared(); // squared length
+ko:     double lengthSquared(); // 길이의 제곱
+
+jp:     T normalize(); // {単位|たんい}ベクトルにする
+en:     T normalize(); // make it a unit vector
+ko:     T normalize(); // 단위 벡터로 만든다
+
+jp:     double distance(T other); // {二点間|にてんかん}の{距離|きょり}
+en:     double distance(T other); // distance between two points
+ko:     double distance(T other); // 두 점 사이의 거리
+
+jp:     T negate(); // {符号|ふごう}を{反転|はんてん}する
+en:     T negate(); // flips the sign
+ko:     T negate(); // 부호를 반전한다
+
+jp: }
+en: End of the interface.
+ko: 인터페이스 끝.
+
+jp: /** {不変|ふへん}の{三次元|さんじげん}ベクトル。{演算|えんざん}は{常|つね}に{新|あたら}しいインスタンスを{返|かえ}す。 */
+en: /** An immutable 3D vector. Operations always return a new instance. */
+ko: /** 불변 3차원 벡터. 연산은 항상 새 인스턴스를 반환한다. */
+
+jp: public final class Vector3 implements VectorType<Vector3> {
+en: Declare the final Vector3 class implementing VectorType.
+ko: VectorType을 구현하는 final 클래스 Vector3를 선언한다.
+
+jp:     public static final Vector3 ZERO = new Vector3(0, 0, 0); // {原点|げんてん}
+en:     public static final Vector3 ZERO = new Vector3(0, 0, 0); // origin
+ko:     public static final Vector3 ZERO = new Vector3(0, 0, 0); // 원점
+
+jp:     public static final Vector3 ONE = new Vector3(1, 1, 1); // {全成分|ぜんせいぶん}が1
+en:     public static final Vector3 ONE = new Vector3(1, 1, 1); // all components are 1
+ko:     public static final Vector3 ONE = new Vector3(1, 1, 1); // 모든 성분이 1
+
+jp:     public static final Vector3 UNIT_X = new Vector3(1, 0, 0); // X{軸|じく}
+en:     public static final Vector3 UNIT_X = new Vector3(1, 0, 0); // X axis
+ko:     public static final Vector3 UNIT_X = new Vector3(1, 0, 0); // X축
+
+jp:     public static final Vector3 UNIT_Y = new Vector3(0, 1, 0); // Y{軸|じく}
+en:     public static final Vector3 UNIT_Y = new Vector3(0, 1, 0); // Y axis
+ko:     public static final Vector3 UNIT_Y = new Vector3(0, 1, 0); // Y축
+
+jp:     public static final Vector3 UNIT_Z = new Vector3(0, 0, 1); // Z{軸|じく}
+en:     public static final Vector3 UNIT_Z = new Vector3(0, 0, 1); // Z axis
+ko:     public static final Vector3 UNIT_Z = new Vector3(0, 0, 1); // Z축
+
+jp:     // {各|かく}{成分|せいぶん}はfinalなので{一度|いちど}{代入|だいにゅう}したら{変更|へんこう}できない
+en:     // Each component is final, so it cannot change once assigned
+ko:     // 각 성분은 final이므로 한 번 대입하면 변경할 수 없다
+
+jp:     public final double x; // X{成分|せいぶん}
+en:     public final double x; // X component
+ko:     public final double x; // X 성분
+
+jp:     public final double y; // Y{成分|せいぶん}
+en:     public final double y; // Y component
+ko:     public final double y; // Y 성분
+
+jp:     public final double z; // Z{成分|せいぶん}
+en:     public final double z; // Z component
+ko:     public final double z; // Z 성분
+
+jp:     /** {成分|せいぶん}を{指定|してい}してベクトルを{作|つく}る。 */
+en:     /** Creates a vector from the given components. */
+ko:     /** 성분을 지정하여 벡터를 만든다. */
+
+jp:     public Vector3(double x, double y, double z) {
+en: Constructor taking three components.
+ko: 세 성분을 받는 생성자.
+
+jp:         this.x = x;
+en: Assign x.
+ko: x를 대입한다.
+
+jp:         this.y = y;
+en: Assign y.
+ko: y를 대입한다.
+
+jp:         this.z = z;
+en: Assign z.
+ko: z를 대입한다.
+
+jp:     }
+en: End of the constructor.
+ko: 생성자 끝.
+
+jp:     // {成分|せいぶん}ごとに{足|た}し{合|あ}わせる
+en:     // Add component by component
+ko:     // 성분별로 더한다
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public Vector3 add(Vector3 other) {
+en: Declare add.
+ko: add를 선언한다.
+
+jp:         return new Vector3(x + other.x, y + other.y, z + other.z);
+en: Return the component-wise sum.
+ko: 성분별 합을 반환한다.
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public Vector3 subtract(Vector3 other) {
+en: Declare subtract.
+ko: subtract를 선언한다.
+
+jp:         return new Vector3(x - other.x, y - other.y, z - other.z);
+en: Return the component-wise difference.
+ko: 성분별 차를 반환한다.
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public Vector3 multiply(double scalar) {
+en: Declare multiply.
+ko: multiply를 선언한다.
+
+jp:         return new Vector3(x * scalar, y * scalar, z * scalar);
+en: Return the scaled vector.
+ko: 스칼라배한 벡터를 반환한다.
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public Vector3 divide(double scalar) {
+en: Declare divide.
+ko: divide를 선언한다.
+
+jp:         // ゼロで{割|わ}ろうとしたら{例外|れいがい}を{投|な}げる
+en:         // Throw an exception when dividing by zero
+ko:         // 0으로 나누려 하면 예외를 던진다
+
+jp:         if (scalar == 0) {
+en: Check for a zero scalar.
+ko: 스칼라가 0인지 확인한다.
+
+jp:             throw new ArithmeticException("division by zero");
+en: Throw ArithmeticException.
+ko: ArithmeticException을 던진다.
+
+jp:         }
+en: End of if.
+ko: if 끝.
+
+jp:         return multiply(1 / scalar); // {逆数|ぎゃくすう}を{掛|か}ける
+en:         return multiply(1 / scalar); // multiply by the reciprocal
+ko:         return multiply(1 / scalar); // 역수를 곱한다
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     /** {内積|ないせき}を{返|かえ}す。{直交|ちょっこう}していれば0になる。 */
+en:     /** Returns the dot product. It is 0 if orthogonal. */
+ko:     /** 내적을 반환한다. 직교하면 0이 된다. */
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public double dot(Vector3 other) {
+en: Declare dot.
+ko: dot을 선언한다.
+
+jp:         return x * other.x + y * other.y + z * other.z;
+en: Return the sum of component products.
+ko: 성분 곱의 합을 반환한다.
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     /** {外積|がいせき}を{返|かえ}す。{結果|けっか}は{両方|りょうほう}に{垂直|すいちょく}になる。 */
+en:     /** Returns the cross product. The result is perpendicular to both. */
+ko:     /** 외적을 반환한다. 결과는 양쪽에 수직이 된다. */
+
+jp:     public Vector3 cross(Vector3 other) {
+en: Declare cross.
+ko: cross를 선언한다.
+
+jp:         return new Vector3(
+en: Begin constructing the result.
+ko: 결과 생성을 시작한다.
+
+jp:                 y * other.z - z * other.y, // {新|あたら}しいX{成分|せいぶん}
+en:                 y * other.z - z * other.y, // new X component
+ko:                 y * other.z - z * other.y, // 새 X 성분
+
+jp:                 z * other.x - x * other.z, // {新|あたら}しいY{成分|せいぶん}
+en:                 z * other.x - x * other.z, // new Y component
+ko:                 z * other.x - x * other.z, // 새 Y 성분
+
+jp:                 x * other.y - y * other.x); // {新|あたら}しいZ{成分|せいぶん}
+en:                 x * other.y - y * other.x); // new Z component
+ko:                 x * other.y - y * other.x); // 새 Z 성분
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     // {自分|じぶん}{自身|じしん}との{内積|ないせき}が{長|なが}さの{二乗|にじょう}になる
+en:     // The dot product with itself is the squared length
+ko:     // 자기 자신과의 내적이 길이의 제곱이 된다
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public double lengthSquared() { return dot(this); }
+en: lengthSquared returns the dot product with itself.
+ko: lengthSquared는 자기 자신과의 내적을 반환한다.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public double length() {
+en: Declare length.
+ko: length를 선언한다.
+
+jp:         // {比較|ひかく}だけならlengthSquaredの{方|ほう}が{速|はや}い
+en:         // For comparisons only, lengthSquared is faster
+ko:         // 비교만 한다면 lengthSquared가 더 빠르다
+
+jp:         return Math.sqrt(lengthSquared());
+en: Return the square root.
+ko: 제곱근을 반환한다.
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public Vector3 normalize() {
+en: Declare normalize.
+ko: normalize를 선언한다.
+
+jp:         double len = length(); // {一度|いちど}だけ{計算|けいさん}する
+en:         double len = length(); // compute only once
+ko:         double len = length(); // 한 번만 계산한다
+
+jp:         // {長|なが}さがゼロのベクトルは{正規化|せいきか}できない
+en:         // A zero-length vector cannot be normalized
+ko:         // 길이가 0인 벡터는 정규화할 수 없다
+
+jp:         if (len == 0) {
+en: Check for zero length.
+ko: 길이가 0인지 확인한다.
+
+jp:             throw new IllegalStateException("cannot normalize zero vector");
+en: Throw IllegalStateException.
+ko: IllegalStateException을 던진다.
+
+jp:         }
+en: End of if.
+ko: if 끝.
+
+jp:         return divide(len); // {長|なが}さで{割|わ}る
+en:         return divide(len); // divide by the length
+ko:         return divide(len); // 길이로 나눈다
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     // {差|さ}のベクトルの{長|なが}さが{二点間|にてんかん}の{距離|きょり}
+en:     // The length of the difference is the distance between two points
+ko:     // 차 벡터의 길이가 두 점 사이의 거리
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public double distance(Vector3 other) { return subtract(other).length(); }
+en: distance returns the length of the difference.
+ko: distance는 차의 길이를 반환한다.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public Vector3 negate() { return new Vector3(-x, -y, -z); } // {逆向|ぎゃくむ}き
+en:     public Vector3 negate() { return new Vector3(-x, -y, -z); } // opposite direction
+ko:     public Vector3 negate() { return new Vector3(-x, -y, -z); } // 반대 방향
+
+jp:     /**
+en: Start of a Javadoc comment.
+ko: Javadoc 주석 시작.
+
+jp:      * {二|ふた}つのベクトルを{線形補間|せんけいほかん}する。
+en:      * Linearly interpolates between two vectors.
+ko:      * 두 벡터를 선형 보간한다.
+
+jp:      * tが0ならthis、1ならotherと{等|ひと}しくなる。
+en:      * Equals this when t is 0, and other when t is 1.
+ko:      * t가 0이면 this, 1이면 other와 같아진다.
+
+jp:      */
+en: End of the Javadoc comment.
+ko: Javadoc 주석 끝.
+
+jp:     public Vector3 lerp(Vector3 other, double t) {
+en: Declare lerp.
+ko: lerp를 선언한다.
+
+jp:         return add(other.subtract(this).multiply(t)); // {差分|さぶん}にtを{掛|か}けて{足|た}す
+en:         return add(other.subtract(this).multiply(t)); // scale the difference by t and add it
+ko:         return add(other.subtract(this).multiply(t)); // 차분에 t를 곱해서 더한다
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public boolean equals(Object obj) {
+en: Declare equals.
+ko: equals를 선언한다.
+
+jp:         // パターンマッチで{型|かた}の{確認|かくにん}とキャストを{同時|どうじ}に{行|おこな}う
+en:         // Pattern matching checks the type and casts at the same time
+ko:         // 패턴 매칭으로 타입 확인과 캐스트를 동시에 수행한다
+
+jp:         if (!(obj instanceof Vector3 v)) {
+en: Check the type with pattern matching.
+ko: 패턴 매칭으로 타입을 확인한다.
+
+jp:             return false;
+en: Return false.
+ko: false를 반환한다.
+
+jp:         }
+en: End of if.
+ko: if 끝.
+
+jp:         // -0.0と0.0を{区別|くべつ}するためDouble.compareを{使|つか}う
+en:         // Use Double.compare to distinguish -0.0 from 0.0
+ko:         // -0.0과 0.0을 구별하기 위해 Double.compare를 사용한다
+
+jp:         return Double.compare(x, v.x) == 0
+en: Compare x.
+ko: x를 비교한다.
+
+jp:                 && Double.compare(y, v.y) == 0
+en: Compare y.
+ko: y를 비교한다.
+
+jp:                 && Double.compare(z, v.z) == 0;
+en: Compare z.
+ko: z를 비교한다.
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp:     // equalsと{整合|せいごう}するハッシュ{値|ち}を{返|かえ}す
+en:     // Return a hash value consistent with equals
+ko:     // equals와 일관된 해시 값을 반환한다
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public int hashCode() { return Objects.hash(x, y, z); }
+en: hashCode hashes the three components.
+ko: hashCode는 세 성분을 해시한다.
+
+jp:     @Override
+en: Mark as an override.
+ko: 오버라이드 표시.
+
+jp:     public String toString() {
+en: Declare toString.
+ko: toString을 선언한다.
+
+jp:         return "Vector3(" + x + ", " + y + ", " + z + ")";
+en: Return a readable string.
+ko: 읽기 쉬운 문자열을 반환한다.
+
+jp:     }
+en: End of method.
+ko: 메서드 끝.
+
+jp: }
+en: End of the class.
+ko: 클래스 끝.

@@ -1,0 +1,298 @@
+# id: legal
+# title: 日本の法令（抜粋）
+# title_en: Japanese law articles
+# title_ko: 일본 법령 (발췌)
+# source: https://laws.e-gov.go.jp/law/321CONSTITUTION https://laws.e-gov.go.jp/law/129AC0000000089 https://laws.e-gov.go.jp/law/140AC0000000045 https://laws.e-gov.go.jp/law/345AC0000000048
+# note: Verbatim excerpts from e-Gov 法令検索 (日本国憲法 前文・第1条ほか, 民法 第1条から第3条, 刑法 第199条, 著作権法 第13条), split at clause boundaries; paragraph numbers and article captions omitted, and one preamble sentence containing ゐ skipped. Constitution text keeps its original historical kana usage. Statutes and laws are not subject to copyright in Japan (著作権法第13条第1号). English and Korean lines are original translations for study, not official translations.
+
+jp: {日本国民|にほんこくみん}は、{正当|せいとう}に{選挙|せんきょ}された{国会|こっかい}における{代表者|だいひょうしゃ}を{通|つう}じて{行動|こうどう}し、
+en: We, the Japanese people, acting through our duly elected representatives in the National Diet,
+ko: 일본 국민은 정당하게 선거된 국회의 대표자를 통하여 행동하고,
+
+jp: われらとわれらの{子孫|しそん}のために、{諸国民|しょこくみん}との{協和|きょうわ}による{成果|せいか}と、
+en: for ourselves and our descendants, the fruits of peaceful cooperation with all nations,
+ko: 우리와 우리 자손을 위하여 여러 국민과의 협화에 의한 성과와,
+
+jp: わが{国|くに}{全土|ぜんど}にわたつて{自由|じゆう}のもたらす{恵沢|けいたく}を{確保|かくほ}し、
+en: and the blessings of liberty throughout this land, we secure,
+ko: 우리나라 전 국토에 걸쳐 자유가 가져다주는 혜택을 확보하며,
+
+jp: {政府|せいふ}の{行為|こうい}によつて{再|ふたた}び{戦争|せんそう}の{惨禍|さんか}が{起|おこ}ることのないやうにすることを{決意|けつい}し、
+en: and resolve that never again shall we be visited with the horrors of war through the action of government,
+ko: 정부의 행위로 인하여 다시는 전쟁의 참화가 일어나지 않도록 할 것을 결의하고,
+
+jp: ここに{主権|しゅけん}が{国民|こくみん}に{存|そん}することを{宣言|せんげん}し、この{憲法|けんぽう}を{確定|かくてい}する。
+en: we hereby proclaim that sovereign power resides with the people and establish this Constitution.
+ko: 이에 주권이 국민에게 있음을 선언하고 이 헌법을 확정한다.
+
+jp: そもそも{国政|こくせい}は、{国民|こくみん}の{厳粛|げんしゅく}な{信託|しんたく}によるものであつて、
+en: Government is, in essence, a sacred trust of the people,
+ko: 무릇 국정은 국민의 엄숙한 신탁에 의한 것으로서,
+
+jp: その{権威|けんい}は{国民|こくみん}に{由来|ゆらい}し、その{権力|けんりょく}は{国民|こくみん}の{代表者|だいひょうしゃ}がこれを{行使|こうし}し、
+en: its authority derives from the people, its powers are exercised by the people's representatives,
+ko: 그 권위는 국민으로부터 유래하고, 그 권력은 국민의 대표자가 이를 행사하며,
+
+jp: その{福利|ふくり}は{国民|こくみん}がこれを{享受|きょうじゅ}する。
+en: and its benefits are enjoyed by the people.
+ko: 그 복리는 국민이 이를 향유한다.
+
+jp: これは{人類普遍|じんるいふへん}の{原理|げんり}であり、この{憲法|けんぽう}は、かかる{原理|げんり}に{基|もとづ}くものである。
+en: This is a universal principle of mankind, and this Constitution is founded upon that principle.
+ko: 이는 인류 보편의 원리이며, 이 헌법은 이러한 원리에 기초한 것이다.
+
+jp: われらは、これに{反|はん}する{一切|いっさい}の{憲法|けんぽう}、{法令|ほうれい}{及|およ}び{詔勅|しょうちょく}を{排除|はいじょ}する。
+en: We reject and revoke all constitutions, laws, ordinances and rescripts in conflict herewith.
+ko: 우리는 이에 반하는 일체의 헌법, 법령 및 조칙을 배제한다.
+
+jp: {日本国民|にほんこくみん}は、{恒久|こうきゅう}の{平和|へいわ}を{念願|ねんがん}し、
+en: We, the Japanese people, desire peace for all time
+ko: 일본 국민은 항구적인 평화를 염원하고,
+
+jp: {人間相互|にんげんそうご}の{関係|かんけい}を{支配|しはい}する{崇高|すうこう}な{理想|りそう}を{深|ふか}く{自覚|じかく}するのであつて、
+en: and are deeply conscious of the high ideals governing human relationships,
+ko: 인간 상호의 관계를 지배하는 숭고한 이상을 깊이 자각하는 바이며,
+
+jp: {平和|へいわ}を{愛|あい}する{諸国民|しょこくみん}の{公正|こうせい}と{信義|しんぎ}に{信頼|しんらい}して、
+en: and, trusting in the justice and good faith of the peace-loving peoples of the world,
+ko: 평화를 사랑하는 여러 국민의 공정과 신의를 신뢰하여,
+
+jp: われらの{安全|あんぜん}と{生存|せいぞん}を{保持|ほじ}しようと{決意|けつい}した。
+en: we have resolved to preserve our security and existence.
+ko: 우리의 안전과 생존을 보지하고자 결의하였다.
+
+jp: われらは、{全世界|ぜんせかい}の{国民|こくみん}が、ひとしく{恐怖|きょうふ}と{欠乏|けつぼう}から{免|まぬ}かれ、
+en: We recognize that all peoples of the world, equally free from fear and want,
+ko: 우리는 전 세계의 국민이 다 같이 공포와 결핍에서 벗어나,
+
+jp: {平和|へいわ}のうちに{生存|せいぞん}する{権利|けんり}を{有|ゆう}することを{確認|かくにん}する。
+en: have the right to live in peace.
+ko: 평화 속에서 생존할 권리를 가짐을 확인한다.
+
+jp: {第一条|だいいちじょう}　{天皇|てんのう}は、{日本国|にほんこく}の{象徴|しょうちょう}であり{日本国民統合|にほんこくみんとうごう}の{象徴|しょうちょう}であつて、
+en: Article 1. The Emperor shall be the symbol of the State and of the unity of the Japanese people,
+ko: 제1조 천황은 일본국의 상징이며 일본 국민 통합의 상징으로서,
+
+jp: この{地位|ちい}は、{主権|しゅけん}の{存|そん}する{日本国民|にほんこくみん}の{総意|そうい}に{基|もとづ}く。
+en: deriving this position from the will of the Japanese people, with whom resides sovereign power.
+ko: 이 지위는 주권을 가진 일본 국민의 총의에 기초한다.
+
+jp: {第九条|だいきゅうじょう}　{日本国民|にほんこくみん}は、{正義|せいぎ}と{秩序|ちつじょ}を{基調|きちょう}とする{国際平和|こくさいへいわ}を{誠実|せいじつ}に{希求|ききゅう}し、
+en: Article 9. Aspiring sincerely to an international peace based on justice and order, the Japanese people
+ko: 제9조 일본 국민은 정의와 질서를 기조로 하는 국제 평화를 성실히 희구하며,
+
+jp: {国権|こっけん}の{発動|はつどう}たる{戦争|せんそう}と、{武力|ぶりょく}による{威嚇|いかく}{又|また}は{武力|ぶりょく}の{行使|こうし}は、
+en: forever renounce war as a sovereign right of the nation and the threat or use of force
+ko: 국권의 발동인 전쟁과 무력에 의한 위협 또는 무력의 행사는,
+
+jp: {国際紛争|こくさいふんそう}を{解決|かいけつ}する{手段|しゅだん}としては、{永久|えいきゅう}にこれを{放棄|ほうき}する。
+en: as a means of settling international disputes.
+ko: 국제 분쟁을 해결하는 수단으로서는 영구히 이를 포기한다.
+
+jp: {前項|ぜんこう}の{目的|もくてき}を{達|たっ}するため、{陸海空軍|りくかいくうぐん}その{他|た}の{戦力|せんりょく}は、これを{保持|ほじ}しない。
+en: In order to accomplish the aim of the preceding paragraph, land, sea and air forces, as well as other war potential, will never be maintained.
+ko: 전항의 목적을 달성하기 위하여 육해공군 그 밖의 전력은 이를 보유하지 아니한다.
+
+jp: {国|くに}の{交戦権|こうせんけん}は、これを{認|みと}めない。
+en: The right of belligerency of the state will not be recognized.
+ko: 국가의 교전권은 이를 인정하지 아니한다.
+
+jp: {第十一条|だいじゅういちじょう}　{国民|こくみん}は、すべての{基本的人権|きほんてきじんけん}の{享有|きょうゆう}を{妨|さまた}げられない。
+en: Article 11. The people shall not be prevented from enjoying any of the fundamental human rights.
+ko: 제11조 국민은 모든 기본적 인권의 향유를 방해받지 아니한다.
+
+jp: この{憲法|けんぽう}が{国民|こくみん}に{保障|ほしょう}する{基本的人権|きほんてきじんけん}は、{侵|おか}すことのできない{永久|えいきゅう}の{権利|けんり}として、
+en: The fundamental human rights guaranteed to the people by this Constitution, as eternal and inviolable rights,
+ko: 이 헌법이 국민에게 보장하는 기본적 인권은 침해할 수 없는 영구한 권리로서,
+
+jp: {現在|げんざい}{及|およ}び{将来|しょうらい}の{国民|こくみん}に{与|あた}へられる。
+en: are conferred upon the people of this and future generations.
+ko: 현재 및 장래의 국민에게 부여된다.
+
+jp: {第十二条|だいじゅうにじょう}　この{憲法|けんぽう}が{国民|こくみん}に{保障|ほしょう}する{自由|じゆう}{及|およ}び{権利|けんり}は、
+en: Article 12. The freedoms and rights guaranteed to the people by this Constitution
+ko: 제12조 이 헌법이 국민에게 보장하는 자유 및 권리는,
+
+jp: {国民|こくみん}の{不断|ふだん}の{努力|どりょく}によつて、これを{保持|ほじ}しなければならない。
+en: shall be maintained by the constant endeavor of the people.
+ko: 국민의 부단한 노력에 의하여 이를 보지하여야 한다.
+
+jp: {又|また}、{国民|こくみん}は、これを{濫用|らんよう}してはならないのであつて、
+en: The people shall also refrain from any abuse of these freedoms and rights,
+ko: 또한 국민은 이를 남용하여서는 아니 되며,
+
+jp: {常|つね}に{公共|こうきょう}の{福祉|ふくし}のためにこれを{利用|りよう}する{責任|せきにん}を{負|お}ふ。
+en: and shall always be responsible for using them for the public welfare.
+ko: 항상 공공의 복지를 위하여 이를 이용할 책임을 진다.
+
+jp: {第十三条|だいじゅうさんじょう}　すべて{国民|こくみん}は、{個人|こじん}として{尊重|そんちょう}される。
+en: Article 13. All of the people shall be respected as individuals.
+ko: 제13조 모든 국민은 개인으로서 존중된다.
+
+jp: {生命|せいめい}、{自由|じゆう}{及|およ}び{幸福追求|こうふくついきゅう}に{対|たい}する{国民|こくみん}の{権利|けんり}については、
+en: Their right to life, liberty and the pursuit of happiness,
+ko: 생명, 자유 및 행복 추구에 대한 국민의 권리에 대하여는,
+
+jp: {公共|こうきょう}の{福祉|ふくし}に{反|はん}しない{限|かぎ}り、{立法|りっぽう}その{他|た}の{国政|こくせい}の{上|うえ}で、{最大|さいだい}の{尊重|そんちょう}を{必要|ひつよう}とする。
+en: to the extent it does not interfere with the public welfare, shall be the supreme consideration in legislation and other governmental affairs.
+ko: 공공의 복지에 반하지 아니하는 한, 입법 그 밖의 국정에서 최대의 존중을 필요로 한다.
+
+jp: {第十四条|だいじゅうよじょう}　すべて{国民|こくみん}は、{法|ほう}の{下|もと}に{平等|びょうどう}であつて、
+en: Article 14. All of the people are equal under the law,
+ko: 제14조 모든 국민은 법 아래에 평등하며,
+
+jp: {人種|じんしゅ}、{信条|しんじょう}、{性別|せいべつ}、{社会的身分|しゃかいてきみぶん}{又|また}は{門地|もんち}により、
+en: and there shall be no discrimination because of race, creed, sex, social status or family origin
+ko: 인종, 신조, 성별, 사회적 신분 또는 문벌에 의하여,
+
+jp: {政治的|せいじてき}、{経済的|けいざいてき}{又|また}は{社会的関係|しゃかいてきかんけい}において、{差別|さべつ}されない。
+en: in political, economic or social relations.
+ko: 정치적, 경제적 또는 사회적 관계에서 차별받지 아니한다.
+
+jp: {華族|かぞく}その{他|た}の{貴族|きぞく}の{制度|せいど}は、これを{認|みと}めない。
+en: Peers and other forms of peerage shall not be recognized.
+ko: 화족 그 밖의 귀족 제도는 이를 인정하지 아니한다.
+
+jp: {栄誉|えいよ}、{勲章|くんしょう}その{他|た}の{栄典|えいてん}の{授与|じゅよ}は、いかなる{特権|とっけん}も{伴|ともな}はない。
+en: No privilege shall accompany any award of honor, decoration or any other distinction.
+ko: 영예, 훈장 그 밖의 영전의 수여는 어떠한 특권도 수반하지 아니한다.
+
+jp: {栄典|えいてん}の{授与|じゅよ}は、{現|げん}にこれを{有|ゆう}し、{又|また}は{将来|しょうらい}これを{受|う}ける{者|もの}の{一代|いちだい}に{限|かぎ}り、その{効力|こうりょく}を{有|ゆう}する。
+en: Such an award is valid only for the lifetime of the person who now holds it or may hereafter receive it.
+ko: 영전의 수여는 현재 이를 가지거나 장래 이를 받는 자의 일대에 한하여 그 효력을 가진다.
+
+jp: {第十九条|だいじゅうきゅうじょう}　{思想|しそう}{及|およ}び{良心|りょうしん}の{自由|じゆう}は、これを{侵|おか}してはならない。
+en: Article 19. Freedom of thought and conscience shall not be violated.
+ko: 제19조 사상 및 양심의 자유는 이를 침해하여서는 아니 된다.
+
+jp: {第二十条|だいにじゅうじょう}　{信教|しんきょう}の{自由|じゆう}は、{何人|なんぴと}に{対|たい}してもこれを{保障|ほしょう}する。
+en: Article 20. Freedom of religion is guaranteed to all.
+ko: 제20조 신교의 자유는 누구에게나 이를 보장한다.
+
+jp: いかなる{宗教団体|しゅうきょうだんたい}も、{国|くに}から{特権|とっけん}を{受|う}け、{又|また}は{政治上|せいじじょう}の{権力|けんりょく}を{行使|こうし}してはならない。
+en: No religious organization shall receive any privileges from the State, nor exercise any political authority.
+ko: 어떠한 종교 단체도 국가로부터 특권을 받거나 정치상의 권력을 행사하여서는 아니 된다.
+
+jp: {何人|なんぴと}も、{宗教上|しゅうきょうじょう}の{行為|こうい}、{祝典|しゅくてん}、{儀式|ぎしき}{又|また}は{行事|ぎょうじ}に{参加|さんか}することを{強制|きょうせい}されない。
+en: No person shall be compelled to take part in any religious act, celebration, rite or practice.
+ko: 누구도 종교상의 행위, 축전, 의식 또는 행사에 참가할 것을 강제받지 아니한다.
+
+jp: {国|くに}{及|およ}びその{機関|きかん}は、{宗教教育|しゅうきょうきょういく}その{他|た}いかなる{宗教的活動|しゅうきょうてきかつどう}もしてはならない。
+en: The State and its organs shall refrain from religious education or any other religious activity.
+ko: 국가 및 그 기관은 종교 교육 그 밖의 어떠한 종교적 활동도 하여서는 아니 된다.
+
+jp: {第二十一条|だいにじゅういちじょう}　{集会|しゅうかい}、{結社|けっしゃ}{及|およ}び{言論|げんろん}、{出版|しゅっぱん}その{他|た}{一切|いっさい}の{表現|ひょうげん}の{自由|じゆう}は、これを{保障|ほしょう}する。
+en: Article 21. Freedom of assembly and association as well as speech, press and all other forms of expression are guaranteed.
+ko: 제21조 집회, 결사 및 언론, 출판 그 밖의 일체의 표현의 자유는 이를 보장한다.
+
+jp: {検閲|けんえつ}は、これをしてはならない。{通信|つうしん}の{秘密|ひみつ}は、これを{侵|おか}してはならない。
+en: No censorship shall be maintained, nor shall the secrecy of any means of communication be violated.
+ko: 검열은 이를 하여서는 아니 된다. 통신의 비밀은 이를 침해하여서는 아니 된다.
+
+jp: {第二十五条|だいにじゅうごじょう}　すべて{国民|こくみん}は、{健康|けんこう}で{文化的|ぶんかてき}な{最低限度|さいていげんど}の{生活|せいかつ}を{営|いとな}む{権利|けんり}を{有|ゆう}する。
+en: Article 25. All people shall have the right to maintain the minimum standards of wholesome and cultured living.
+ko: 제25조 모든 국민은 건강하고 문화적인 최저한도의 생활을 영위할 권리를 가진다.
+
+jp: {国|くに}は、すべての{生活部面|せいかつぶめん}について、{社会福祉|しゃかいふくし}、{社会保障|しゃかいほしょう}{及|およ}び{公衆衛生|こうしゅうえいせい}の
+en: In all spheres of life, the State shall use its endeavors for the promotion and extension of social welfare and security,
+ko: 국가는 모든 생활 부면에 대하여 사회 복지, 사회 보장 및 공중위생의
+
+jp: {向上|こうじょう}{及|およ}び{増進|ぞうしん}に{努|つと}めなければならない。
+en: and of public health.
+ko: 향상 및 증진에 노력하여야 한다.
+
+jp: {第四十一条|だいよんじゅういちじょう}　{国会|こっかい}は、{国権|こっけん}の{最高機関|さいこうきかん}であつて、{国|くに}の{唯一|ゆいいつ}の{立法機関|りっぽうきかん}である。
+en: Article 41. The Diet shall be the highest organ of state power, and shall be the sole law-making organ of the State.
+ko: 제41조 국회는 국권의 최고 기관이며 국가의 유일한 입법 기관이다.
+
+jp: {第七十六条|だいななじゅうろくじょう}　すべて{司法権|しほうけん}は、{最高裁判所|さいこうさいばんしょ}{及|およ}び
+en: Article 76. The whole judicial power is vested in a Supreme Court and
+ko: 제76조 모든 사법권은 최고재판소 및
+
+jp: {法律|ほうりつ}の{定|さだ}めるところにより{設置|せっち}する{下級裁判所|かきゅうさいばんしょ}に{属|ぞく}する。
+en: in such inferior courts as are established by law.
+ko: 법률이 정하는 바에 따라 설치하는 하급재판소에 속한다.
+
+jp: {特別裁判所|とくべつさいばんしょ}は、これを{設置|せっち}することができない。
+en: No extraordinary tribunal shall be established,
+ko: 특별재판소는 이를 설치할 수 없다.
+
+jp: {行政機関|ぎょうせいきかん}は、{終審|しゅうしん}として{裁判|さいばん}を{行|おこな}ふことができない。
+en: nor shall any organ or agency of the Executive be given final judicial power.
+ko: 행정 기관은 종심으로서 재판을 할 수 없다.
+
+jp: すべて{裁判官|さいばんかん}は、その{良心|りょうしん}に{従|したが}ひ{独立|どくりつ}してその{職権|しょっけん}を{行|おこな}ひ、
+en: All judges shall follow their conscience and exercise their authority independently,
+ko: 모든 재판관은 그 양심에 따라 독립하여 그 직권을 행하며,
+
+jp: この{憲法|けんぽう}{及|およ}び{法律|ほうりつ}にのみ{拘束|こうそく}される。
+en: and shall be bound only by this Constitution and the laws.
+ko: 이 헌법 및 법률에만 구속된다.
+
+jp: {第九十八条|だいきゅうじゅうはちじょう}　この{憲法|けんぽう}は、{国|くに}の{最高法規|さいこうほうき}であつて、
+en: Article 98. This Constitution shall be the supreme law of the nation,
+ko: 제98조 이 헌법은 국가의 최고 법규로서,
+
+jp: その{条規|じょうき}に{反|はん}する{法律|ほうりつ}、{命令|めいれい}、{詔勅|しょうちょく}{及|およ}び{国務|こくむ}に{関|かん}するその{他|た}の{行為|こうい}の
+en: and no law, ordinance, imperial rescript or other act of government contrary to its provisions,
+ko: 그 조규에 반하는 법률, 명령, 조칙 및 국무에 관한 그 밖의 행위의
+
+jp: {全部|ぜんぶ}{又|また}は{一部|いちぶ}は、その{効力|こうりょく}を{有|ゆう}しない。
+en: in whole or in part, shall have legal force or validity.
+ko: 전부 또는 일부는 그 효력을 가지지 아니한다.
+
+jp: {日本国|にほんこく}が{締結|ていけつ}した{条約|じょうやく}{及|およ}び{確立|かくりつ}された{国際法規|こくさいほうき}は、
+en: The treaties concluded by Japan and established laws of nations
+ko: 일본국이 체결한 조약 및 확립된 국제 법규는,
+
+jp: これを{誠実|せいじつ}に{遵守|じゅんしゅ}することを{必要|ひつよう}とする。
+en: shall be faithfully observed.
+ko: 이를 성실히 준수할 것을 필요로 한다.
+
+jp: {第一条|だいいちじょう}　{私権|しけん}は、{公共|こうきょう}の{福祉|ふくし}に{適合|てきごう}しなければならない。
+en: (Civil Code) Article 1. Private rights must conform to the public welfare.
+ko: (민법) 제1조 사권은 공공의 복지에 적합하여야 한다.
+
+jp: {権利|けんり}の{行使|こうし}{及|およ}び{義務|ぎむ}の{履行|りこう}は、{信義|しんぎ}に{従|したが}い{誠実|せいじつ}に{行|おこな}わなければならない。
+en: The exercise of rights and the performance of duties must be done in good faith.
+ko: 권리의 행사 및 의무의 이행은 신의에 따라 성실히 하여야 한다.
+
+jp: {権利|けんり}の{濫用|らんよう}は、これを{許|ゆる}さない。
+en: Abuse of rights is not permitted.
+ko: 권리의 남용은 이를 허용하지 아니한다.
+
+jp: {第二条|だいにじょう}　この{法律|ほうりつ}は、{個人|こじん}の{尊厳|そんげん}と{両性|りょうせい}の{本質的平等|ほんしつてきびょうどう}を{旨|むね}として、{解釈|かいしゃく}しなければならない。
+en: (Civil Code) Article 2. This Act must be construed with respect for the dignity of individuals and the essential equality of both sexes.
+ko: (민법) 제2조 이 법률은 개인의 존엄과 양성의 본질적 평등을 취지로 하여 해석하여야 한다.
+
+jp: {第三条|だいさんじょう}　{私権|しけん}の{享有|きょうゆう}は、{出生|しゅっせい}に{始|はじ}まる。
+en: (Civil Code) Article 3. The enjoyment of private rights commences at birth.
+ko: (민법) 제3조 사권의 향유는 출생으로 시작된다.
+
+jp: {外国人|がいこくじん}は、{法令|ほうれい}{又|また}は{条約|じょうやく}の{規定|きてい}により{禁止|きんし}される{場合|ばあい}を{除|のぞ}き、{私権|しけん}を{享有|きょうゆう}する。
+en: Foreign nationals enjoy private rights, except where prohibited by laws, regulations or treaties.
+ko: 외국인은 법령 또는 조약의 규정에 의하여 금지되는 경우를 제외하고 사권을 향유한다.
+
+jp: {第百九十九条|だいひゃくきゅうじゅうきゅうじょう}　{人|ひと}を{殺|ころ}した{者|もの}は、{死刑|しけい}{又|また}は{無期|むき}{若|も}しくは{五年以上|ごねんいじょう}の{拘禁刑|こうきんけい}に{処|しょ}する。
+en: (Penal Code) Article 199. A person who kills another is punished by death or by imprisonment for life or for a definite term of not less than five years.
+ko: (형법) 제199조 사람을 살해한 자는 사형 또는 무기 혹은 5년 이상의 구금형에 처한다.
+
+jp: {第十三条|だいじゅうさんじょう}　{次|つぎ}の{各号|かくごう}のいずれかに{該当|がいとう}する{著作物|ちょさくぶつ}は、
+en: (Copyright Act) Article 13. A work that falls under any of the following items
+ko: (저작권법) 제13조 다음 각 호의 어느 하나에 해당하는 저작물은,
+
+jp: この{章|しょう}の{規定|きてい}による{権利|けんり}の{目的|もくてき}となることができない。
+en: may not be the subject of the rights provided for in this Chapter.
+ko: 이 장의 규정에 의한 권리의 목적이 될 수 없다.
+
+jp: {一|いち}　{憲法|けんぽう}その{他|た}の{法令|ほうれい}
+en: (i) the Constitution and other laws and regulations;
+ko: 1. 헌법 그 밖의 법령
+
+jp: {三|さん}　{裁判所|さいばんしょ}の{判決|はんけつ}、{決定|けってい}、{命令|めいれい}{及|およ}び{審判|しんぱん}{並|なら}びに
+en: (iii) judgments, decisions, orders and rulings of courts, as well as
+ko: 3. 재판소의 판결, 결정, 명령 및 심판과
+
+jp: {行政庁|ぎょうせいちょう}の{裁決|さいけつ}{及|およ}び{決定|けってい}で{裁判|さいばん}に{準|じゅん}ずる{手続|てつづき}により{行|おこな}われるもの
+en: rulings and decisions of administrative agencies made through procedures equivalent to court proceedings;
+ko: 행정청의 재결 및 결정으로서 재판에 준하는 절차에 의하여 행하여지는 것

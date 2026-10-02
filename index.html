@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JIS Practice</title>
+<meta name="description" content="Untimed JIS kana-input typing practice with real Japanese text.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%232b5fd9'/><text x='16' y='23' font-size='19' text-anchor='middle' fill='white' font-family='sans-serif'>あ</text></svg>">
+<link rel="stylesheet" href="src/style.css">
+</head>
+<body>
+<header class="top">
+  <h1>JIS Practice <span class="sub">かな入力練習</span></h1>
+  <div class="controls">
+    <label>Corpus
+      <select id="corpus"></select>
+    </label>
+    <label class="btn" title="Upload a .txt file (kept only in this browser session)">Upload .txt
+      <input type="file" id="upload" accept=".txt,text/plain" hidden>
+    </label>
+    <button id="prev" title="Previous line">◀</button>
+    <button id="random" title="Random line">⤮</button>
+    <button id="next" title="Skip line">▶</button>
+  </div>
+</header>
+
+<main>
+  <section class="stats" aria-live="polite">
+    <div><span class="k">Keypresses</span><span id="st-total" class="v">0</span></div>
+    <div><span class="k">Correct</span><span id="st-correct" class="v">0</span></div>
+    <div><span class="k">Accuracy</span><span id="st-acc" class="v">–</span></div>
+    <div><span class="k">Lines</span><span id="st-lines" class="v">0</span></div>
+    <button id="reset" class="small">Reset</button>
+  </section>
+
+  <section class="practice" id="practice">
+    <div class="meta"><span id="corpus-title"></span><span id="line-no"></span><span id="mode-ind" class="mode"></span></div>
+    <div id="target" class="target"></div>
+    <div id="romaji" class="hint romaji"></div>
+    <div id="typed" class="typed"></div>
+    <div id="en" class="hint tr"></div>
+    <div id="ko" class="hint tr"></div>
+    <div id="status" class="status"></div>
+  </section>
+
+  <section class="options">
+    <div class="group">
+      <span class="glabel">Hints</span>
+      <label><input type="checkbox" id="h-romaji"> Romaji</label>
+      <label><input type="checkbox" id="h-furigana" checked> Furigana</label>
+      <label><input type="checkbox" id="h-en"> English</label>
+      <label><input type="checkbox" id="h-ko"> 한국어</label>
+    </div>
+    <div class="group">
+      <span class="glabel">Keyboard</span>
+      <select id="kb-mode"></select>
+      <label><input type="checkbox" id="h-next" checked> Highlight next key</label>
+      <label title="ANSI keyboards have no ¥ or ろ key: use ` for ー/¥ and right Alt/⌥ for ろ/\"><input type="checkbox" id="ansi" checked> ANSI fallback</label>
+    </div>
+  </section>
+
+  <div id="keyboard" class="keyboard" aria-hidden="true"></div>
+
+  <details class="help">
+    <summary>How it works</summary>
+    <ul>
+      <li>Keys are read by physical position on the JIS kana layout — turn your OS input method off (or leave it in direct input). Nothing goes through the IME.</li>
+      <li>Kanji convert automatically once their reading is typed. Each katakana word is typed as hiragana and then converted with <kbd>F7</kbd> (<kbd>Ctrl</kbd>+<kbd>K</kbd> also works, as on macOS).</li>
+      <li>゛ and ゜ are separate keystrokes (<kbd>@</kbd> and <kbd>[</kbd>). Latin letters, digits and code switch to alphanumeric mode automatically.</li>
+      <li>Accuracy = correct keypresses ÷ total keypresses. Nothing is timed.</li>
+      <li>On a US/ANSI keyboard, “ANSI fallback” maps <kbd>`</kbd> to the JIS <kbd>¥</kbd> key (ー) and right <kbd>Alt</kbd>/<kbd>⌥</kbd> to the JIS <kbd>\</kbd> key (ろ).</li>
+      <li>Uploads: plain text, one practice line per line. Kanji readings are looked up automatically (downloads a ~12 MB dictionary once), or annotate them yourself as <code>{漢字|かんじ}</code>. You can also use the corpus format with <code>jp:</code>/<code>en:</code>/<code>ko:</code> lines (see <a href="https://github.com/themrsung/jis-practice/blob/main/corpus/FORMAT.md">FORMAT.md</a>). Uploaded text stays in this browser tab only.</li>
+    </ul>
+  </details>
+  <p id="source" class="source"></p>
+</main>
+<footer><a href="https://github.com/themrsung/jis-practice">Source on GitHub</a> · MIT License</footer>
+<script type="module" src="src/app.js"></script>
+</body>
+</html>

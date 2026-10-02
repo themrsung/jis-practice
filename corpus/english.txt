@@ -1,0 +1,526 @@
+# id: english
+# title: アメリカ合衆国憲法（カタカナ）
+# title_en: U.S. Constitution (katakana transliteration)
+# title_ko: 미국 헌법 (가타카나 음차)
+# source: https://www.archives.gov/founding-docs/constitution-transcript
+# note: Preamble and Article I Sections 1-3 from the URL above; Amendments I-X from https://www.archives.gov/founding-docs/bill-of-rights-transcript (National Archives transcriptions). The text of the U.S. Constitution is in the public domain. Katakana transcription and Korean translation are original to this corpus.
+
+jp: ウィー・ザ・ピープル・オブ・ザ・ユナイテッド・ステイツ、イン・オーダー・トゥー・フォーム・ア・モア・パーフェクト・ユニオン、
+en: We the People of the United States, in Order to form a more perfect Union,
+ko: 우리 미합중국 국민은 보다 완전한 연방을 형성하고,
+
+jp: エスタブリッシュ・ジャスティス、インシュア・ドメスティック・トランキリティ、プロバイド・フォー・ザ・コモン・ディフェンス、
+en: establish Justice, insure domestic Tranquility, provide for the common defence,
+ko: 정의를 확립하며, 국내의 평온을 보장하고, 공동의 방위를 도모하며,
+
+jp: プロモート・ザ・ジェネラル・ウェルフェア、アンド・セキュア・ザ・ブレッシングズ・オブ・リバティ
+en: promote the general Welfare, and secure the Blessings of Liberty
+ko: 일반 복지를 증진하고, 자유의 축복을
+
+jp: トゥー・アワセルブズ・アンド・アワ・ポステリティ、ドゥー・オーディン・アンド・エスタブリッシュ
+en: to ourselves and our Posterity, do ordain and establish
+ko: 우리와 우리의 후손에게 확보할 목적으로,
+
+jp: ディス・コンスティテューション・フォー・ザ・ユナイテッド・ステイツ・オブ・アメリカ。
+en: this Constitution for the United States of America.
+ko: 이 아메리카 합중국 헌법을 제정하고 확립한다.
+
+jp: オール・レジスレイティブ・パワーズ・ヒアイン・グランテッド・シャル・ビー・ベステッド
+en: All legislative Powers herein granted shall be vested
+ko: 이 헌법에 의하여 부여되는 모든 입법 권한은
+
+jp: イン・ア・コングレス・オブ・ザ・ユナイテッド・ステイツ、
+en: in a Congress of the United States,
+ko: 미합중국 연방의회에 속하며,
+
+jp: ウィッチ・シャル・コンシスト・オブ・ア・セネト・アンド・ハウス・オブ・リプレゼンタティブズ。
+en: which shall consist of a Senate and House of Representatives.
+ko: 연방의회는 상원과 하원으로 구성된다.
+
+jp: ザ・ハウス・オブ・リプレゼンタティブズ・シャル・ビー・コンポーズド・オブ・メンバーズ
+en: The House of Representatives shall be composed of Members
+ko: 하원은 의원들로 구성되며,
+
+jp: チョーズン・エブリ・セカンド・イヤー・バイ・ザ・ピープル・オブ・ザ・セベラル・ステイツ、
+en: chosen every second Year by the People of the several States,
+ko: 의원은 각 주의 주민이 2년마다 선출하고,
+
+jp: アンド・ジ・エレクターズ・イン・イーチ・ステイト・シャル・ハブ・ザ・クオリフィケーションズ
+en: and the Electors in each State shall have the Qualifications
+ko: 각 주의 선거인은
+
+jp: リクイジット・フォー・エレクターズ・オブ・ザ・モースト・ニューメラス・ブランチ
+en: requisite for Electors of the most numerous Branch
+ko: 주 의회 중 의원 수가 가장 많은 원의
+
+jp: オブ・ザ・ステイト・レジスレイチャー。
+en: of the State Legislature.
+ko: 선거인에게 요구되는 자격을 갖추어야 한다.
+
+jp: ノー・パーソン・シャル・ビー・ア・リプレゼンタティブ・フー・シャル・ノット・ハブ・アテインド
+en: No Person shall be a Representative who shall not have attained
+ko: 누구든지 다음 요건을 갖추지 아니하면 하원의원이 될 수 없다.
+
+jp: トゥー・ジ・エイジ・オブ・トゥエンティ・ファイブ・イヤーズ、アンド・ビーン・セブン・イヤーズ
+en: to the Age of twenty five Years, and been seven Years
+ko: 25세에 달하고, 7년 동안
+
+jp: ア・シチズン・オブ・ザ・ユナイテッド・ステイツ、アンド・フー・シャル・ノット、ホエン・エレクテッド、
+en: a Citizen of the United States, and who shall not, when elected,
+ko: 미합중국 시민이었으며, 선출될 때에
+
+jp: ビー・アン・インハビタント・オブ・ザット・ステイト・イン・ウィッチ・ヒー・シャル・ビー・チョーズン。
+en: be an Inhabitant of that State in which he shall be chosen.
+ko: 자신이 선출되는 주의 주민이어야 한다.
+
+jp: リプレゼンタティブズ・アンド・ダイレクト・タクシーズ・シャル・ビー・アポーションド
+en: Representatives and direct Taxes shall be apportioned
+ko: 하원의원 수와 직접세는
+
+jp: アマング・ザ・セベラル・ステイツ・ウィッチ・メイ・ビー・インクルーデッド・ウィズイン・ディス・ユニオン、
+en: among the several States which may be included within this Union,
+ko: 이 연방에 포함되는 각 주 사이에
+
+jp: アコーディング・トゥー・ゼア・リスペクティブ・ナンバーズ、
+en: according to their respective Numbers,
+ko: 각 주의 인구수에 비례하여 배정되며,
+
+jp: ウィッチ・シャル・ビー・ディターミンド・バイ・アディング・トゥー・ザ・ホール・ナンバー・オブ・フリー・パーソンズ、
+en: which shall be determined by adding to the whole Number of free Persons,
+ko: 인구수는 자유인의 총수에
+
+jp: インクルーディング・ゾーズ・バウンド・トゥー・サービス・フォー・ア・ターム・オブ・イヤーズ、
+en: including those bound to Service for a Term of Years,
+ko: 일정 기간 노역에 복무하는 자를 포함하고
+
+jp: アンド・エクスクルーディング・インディアンズ・ノット・タクスト、スリー・フィフス・オブ・オール・アザー・パーソンズ。
+en: and excluding Indians not taxed, three fifths of all other Persons.
+ko: 과세되지 아니하는 인디언을 제외한 수에, 그 밖의 모든 사람 수의 5분의 3을 더하여 정한다.
+
+jp: ジ・アクチュアル・イニュメレーション・シャル・ビー・メイド・ウィズイン・スリー・イヤーズ
+en: The actual Enumeration shall be made within three Years
+ko: 실제 인구 조사는 3년 이내에 실시하되,
+
+jp: アフター・ザ・ファースト・ミーティング・オブ・ザ・コングレス・オブ・ザ・ユナイテッド・ステイツ、
+en: after the first Meeting of the Congress of the United States,
+ko: 그 기산점은 미합중국 연방의회의 첫 회의로 하며,
+
+jp: アンド・ウィズイン・エブリ・サブシクエント・ターム・オブ・テン・イヤーズ、
+en: and within every subsequent Term of ten Years,
+ko: 그 후에는 10년마다
+
+jp: イン・サッチ・マナー・アズ・ゼイ・シャル・バイ・ロー・ディレクト。
+en: in such Manner as they shall by Law direct.
+ko: 법률이 정하는 방법에 따라 실시한다.
+
+jp: ザ・ナンバー・オブ・リプレゼンタティブズ・シャル・ノット・エクシード
+en: The Number of Representatives shall not exceed
+ko: 하원의원 수는
+
+jp: ワン・フォー・エブリ・サーティ・サウザンド、
+en: one for every thirty Thousand,
+ko: 인구 3만 명당 1명을 초과할 수 없으나,
+
+jp: バット・イーチ・ステイト・シャル・ハブ・アット・リースト・ワン・リプレゼンタティブ、
+en: but each State shall have at Least one Representative;
+ko: 각 주는 적어도 1명의 하원의원을 가진다.
+
+jp: アンド・アンティル・サッチ・イニュメレーション・シャル・ビー・メイド、
+en: and until such enumeration shall be made,
+ko: 그리고 그러한 인구 조사가 실시될 때까지는
+
+jp: ザ・ステイト・オブ・ニュー・ハンプシャー・シャル・ビー・エンタイトルド・トゥー・チューズ・スリー、
+en: the State of New Hampshire shall be entitled to chuse three,
+ko: 뉴햄프셔주는 3명을 선출할 권리를 가지며,
+
+jp: マサチューセッツ・エイト、ロード・アイランド・アンド・プロビデンス・プランテーションズ・ワン、
+en: Massachusetts eight, Rhode-Island and Providence Plantations one,
+ko: 매사추세츠주는 8명, 로드아일랜드 및 프로비던스 플랜테이션주는 1명,
+
+jp: コネチカット・ファイブ、ニュー・ヨーク・シックス、ニュー・ジャージー・フォー、ペンシルベニア・エイト、
+en: Connecticut five, New-York six, New Jersey four, Pennsylvania eight,
+ko: 코네티컷주는 5명, 뉴욕주는 6명, 뉴저지주는 4명, 펜실베이니아주는 8명,
+
+jp: デラウェア・ワン、メリーランド・シックス、バージニア・テン、ノース・カロライナ・ファイブ、
+en: Delaware one, Maryland six, Virginia ten, North Carolina five,
+ko: 델라웨어주는 1명, 메릴랜드주는 6명, 버지니아주는 10명, 노스캐롤라이나주는 5명,
+
+jp: サウス・カロライナ・ファイブ、アンド・ジョージア・スリー。
+en: South Carolina five, and Georgia three.
+ko: 사우스캐롤라이나주는 5명, 조지아주는 3명을 선출한다.
+
+jp: ホエン・ベイカンシーズ・ハプン・イン・ザ・リプレゼンテーション・フロム・エニー・ステイト、
+en: When vacancies happen in the Representation from any State,
+ko: 어느 주에서 하원의원의 결원이 생긴 때에는
+
+jp: ジ・エグゼクティブ・オーソリティ・ゼアオブ・シャル・イシュー・リッツ・オブ・エレクション
+en: the Executive Authority thereof shall issue Writs of Election
+ko: 그 주의 행정부가 선거 명령을 발하여
+
+jp: トゥー・フィル・サッチ・ベイカンシーズ。
+en: to fill such Vacancies.
+ko: 그 결원을 보충한다.
+
+jp: ザ・ハウス・オブ・リプレゼンタティブズ・シャル・チューズ・ゼア・スピーカー・アンド・アザー・オフィサーズ、
+en: The House of Representatives shall chuse their Speaker and other Officers;
+ko: 하원은 그 의장과 그 밖의 임원을 선임하며,
+
+jp: アンド・シャル・ハブ・ザ・ソール・パワー・オブ・インピーチメント。
+en: and shall have the sole Power of Impeachment.
+ko: 탄핵소추권을 독점적으로 가진다.
+
+jp: ザ・セネト・オブ・ザ・ユナイテッド・ステイツ・シャル・ビー・コンポーズド
+en: The Senate of the United States shall be composed
+ko: 미합중국 상원은
+
+jp: オブ・トゥー・セネターズ・フロム・イーチ・ステイト、チョーズン・バイ・ザ・レジスレイチャー・ゼアオブ、
+en: of two Senators from each State, chosen by the Legislature thereof,
+ko: 각 주의 의회가 선출하는 주당 2명의 상원의원으로 구성되며,
+
+jp: フォー・シックス・イヤーズ、アンド・イーチ・セネター・シャル・ハブ・ワン・ボート。
+en: for six Years; and each Senator shall have one Vote.
+ko: 임기는 6년이고, 각 상원의원은 1표의 투표권을 가진다.
+
+jp: イミーディエトリー・アフター・ゼイ・シャル・ビー・アセンブルド
+en: Immediately after they shall be assembled
+ko: 상원의원들이 소집된 직후,
+
+jp: イン・コンシクエンス・オブ・ザ・ファースト・エレクション、
+en: in Consequence of the first Election,
+ko: 즉 첫 번째 선거의 결과로 소집되면,
+
+jp: ゼイ・シャル・ビー・ディバイデッド・アズ・イークワリー・アズ・メイ・ビー・イントゥー・スリー・クラシズ。
+en: they shall be divided as equally as may be into three Classes.
+ko: 그들은 가능한 한 균등하게 세 부류로 나뉜다.
+
+jp: ザ・シーツ・オブ・ザ・セネターズ・オブ・ザ・ファースト・クラス・シャル・ビー・ベイケイテッド
+en: The Seats of the Senators of the first Class shall be vacated
+ko: 제1부류 상원의원의 의석은
+
+jp: アット・ジ・エクスピレーション・オブ・ザ・セカンド・イヤー、
+en: at the Expiration of the second Year,
+ko: 2년째가 끝날 때 공석이 되고,
+
+jp: オブ・ザ・セカンド・クラス・アット・ジ・エクスピレーション・オブ・ザ・フォース・イヤー、
+en: of the second Class at the Expiration of the fourth Year,
+ko: 제2부류는 4년째가 끝날 때,
+
+jp: アンド・オブ・ザ・サード・クラス・アット・ジ・エクスピレーション・オブ・ザ・シックスス・イヤー、
+en: and of the third Class at the Expiration of the sixth Year,
+ko: 제3부류는 6년째가 끝날 때 공석이 되어,
+
+jp: ソー・ザット・ワン・サード・メイ・ビー・チョーズン・エブリ・セカンド・イヤー、
+en: so that one third may be chosen every second Year;
+ko: 2년마다 3분의 1씩 선출되도록 한다.
+
+jp: アンド・イフ・ベイカンシーズ・ハプン・バイ・レジグネーション、オア・アザーワイズ、
+en: and if Vacancies happen by Resignation, or otherwise,
+ko: 사임 또는 그 밖의 사유로 결원이 생긴 경우에
+
+jp: デュアリング・ザ・リセス・オブ・ザ・レジスレイチャー・オブ・エニー・ステイト、
+en: during the Recess of the Legislature of any State,
+ko: 그것이 어느 주 의회의 휴회 중이면,
+
+jp: ジ・エグゼクティブ・ゼアオブ・メイ・メイク・テンポラリー・アポイントメンツ
+en: the Executive thereof may make temporary Appointments
+ko: 그 주의 행정부는 임시로 임명할 수 있으며,
+
+jp: アンティル・ザ・ネクスト・ミーティング・オブ・ザ・レジスレイチャー、
+en: until the next Meeting of the Legislature,
+ko: 이는 주 의회의 다음 회의까지 유효하고,
+
+jp: ウィッチ・シャル・ゼン・フィル・サッチ・ベイカンシーズ。
+en: which shall then fill such Vacancies.
+ko: 그때 주 의회가 그 결원을 보충한다.
+
+jp: ノー・パーソン・シャル・ビー・ア・セネター・フー・シャル・ノット・ハブ・アテインド
+en: No Person shall be a Senator who shall not have attained
+ko: 누구든지 다음 요건을 갖추지 아니하면 상원의원이 될 수 없다.
+
+jp: トゥー・ジ・エイジ・オブ・サーティ・イヤーズ、アンド・ビーン・ナイン・イヤーズ
+en: to the Age of thirty Years, and been nine Years
+ko: 30세에 달하고, 9년 동안
+
+jp: ア・シチズン・オブ・ザ・ユナイテッド・ステイツ、アンド・フー・シャル・ノット、ホエン・エレクテッド、
+en: a Citizen of the United States, and who shall not, when elected,
+ko: 미합중국 시민이었으며, 선출될 때에
+
+jp: ビー・アン・インハビタント・オブ・ザット・ステイト・フォー・ウィッチ・ヒー・シャル・ビー・チョーズン。
+en: be an Inhabitant of that State for which he shall be chosen.
+ko: 자신을 선출하는 주의 주민이어야 한다.
+
+jp: ザ・バイス・プレジデント・オブ・ザ・ユナイテッド・ステイツ・シャル・ビー・プレジデント・オブ・ザ・セネト、
+en: The Vice President of the United States shall be President of the Senate,
+ko: 미합중국 부통령은 상원의장이 되나,
+
+jp: バット・シャル・ハブ・ノー・ボート、アンレス・ゼイ・ビー・イークワリー・ディバイデッド。
+en: but shall have no Vote, unless they be equally divided.
+ko: 가부동수인 경우를 제외하고는 투표권을 가지지 아니한다.
+
+jp: ザ・セネト・シャル・チューズ・ゼア・アザー・オフィサーズ、アンド・オールソー・ア・プレジデント・プロ・テンポレ、
+en: The Senate shall chuse their other Officers, and also a President pro tempore,
+ko: 상원은 그 밖의 임원을 선임하며, 또한 임시의장을 선임하여
+
+jp: イン・ジ・アブセンス・オブ・ザ・バイス・プレジデント、
+en: in the Absence of the Vice President,
+ko: 부통령이 결석한 때나
+
+jp: オア・ホエン・ヒー・シャル・エクササイズ・ジ・オフィス・オブ・プレジデント・オブ・ザ・ユナイテッド・ステイツ。
+en: or when he shall exercise the Office of President of the United States.
+ko: 부통령이 미합중국 대통령의 직무를 수행하는 때에 대비한다.
+
+jp: ザ・セネト・シャル・ハブ・ザ・ソール・パワー・トゥー・トライ・オール・インピーチメンツ。
+en: The Senate shall have the sole Power to try all Impeachments.
+ko: 상원은 모든 탄핵을 심판할 독점적 권한을 가진다.
+
+jp: ホエン・シッティング・フォー・ザット・パーパス、ゼイ・シャル・ビー・オン・オウス・オア・アファメーション。
+en: When sitting for that Purpose, they shall be on Oath or Affirmation.
+ko: 이 목적을 위하여 회의할 때에는 상원의원은 선서 또는 확약을 하여야 한다.
+
+jp: ホエン・ザ・プレジデント・オブ・ザ・ユナイテッド・ステイツ・イズ・トライド、
+en: When the President of the United States is tried,
+ko: 미합중국 대통령이 심판을 받을 때에는
+
+jp: ザ・チーフ・ジャスティス・シャル・プリサイド、
+en: the Chief Justice shall preside:
+ko: 연방대법원장이 의장이 된다.
+
+jp: アンド・ノー・パーソン・シャル・ビー・コンビクテッド・ウィズアウト・ザ・コンカレンス
+en: And no Person shall be convicted without the Concurrence
+ko: 누구든지 다음의 찬성 없이는 유죄 판결을 받지 아니한다.
+
+jp: オブ・トゥー・サーズ・オブ・ザ・メンバーズ・プレゼント。
+en: of two thirds of the Members present.
+ko: 즉 출석 의원 3분의 2의 찬성이다.
+
+jp: ジャッジメント・イン・ケーシズ・オブ・インピーチメント・シャル・ノット・エクステンド・ファーザー
+en: Judgment in Cases of Impeachment shall not extend further
+ko: 탄핵 사건의 판결은 다음의 범위를 넘지 못한다.
+
+jp: ザン・トゥー・リムーバル・フロム・オフィス、アンド・ディスクオリフィケーション
+en: than to removal from Office, and disqualification
+ko: 즉 공직에서의 파면과, 다음 자격의 박탈이다.
+
+jp: トゥー・ホールド・アンド・エンジョイ・エニー・オフィス・オブ・オナー、トラスト・オア・プロフィット
+en: to hold and enjoy any Office of honor, Trust or Profit
+ko: 명예, 신임 또는 보수를 수반하는 공직에 취임하고 이를 향유할 자격으로서,
+
+jp: アンダー・ザ・ユナイテッド・ステイツ、
+en: under the United States:
+ko: 미합중국 아래의 공직에 관한 것이다.
+
+jp: バット・ザ・パーティー・コンビクテッド・シャル・ネバーザレス・ビー・ライアブル・アンド・サブジェクト
+en: but the Party convicted shall nevertheless be liable and subject
+ko: 그러나 유죄 판결을 받은 당사자는 그럼에도 불구하고
+
+jp: トゥー・インダイトメント、トライアル、ジャッジメント・アンド・パニッシュメント、アコーディング・トゥー・ロー。
+en: to Indictment, Trial, Judgment and Punishment, according to Law.
+ko: 법률에 따라 기소, 재판, 판결 및 처벌을 받을 책임을 진다.
+
+jp: コングレス・シャル・メイク・ノー・ロー・リスペクティング・アン・エスタブリッシュメント・オブ・レリジョン、
+en: Congress shall make no law respecting an establishment of religion,
+ko: 연방의회는 국교의 수립에 관한 법률이나
+
+jp: オア・プロヒビティング・ザ・フリー・エクササイズ・ゼアオブ、
+en: or prohibiting the free exercise thereof;
+ko: 자유로운 종교 활동을 금지하는 법률,
+
+jp: オア・アブリッジング・ザ・フリーダム・オブ・スピーチ、オア・オブ・ザ・プレス、
+en: or abridging the freedom of speech, or of the press;
+ko: 또는 언론이나 출판의 자유를 제한하는 법률,
+
+jp: オア・ザ・ライト・オブ・ザ・ピープル・ピーサブリー・トゥー・アセンブル、
+en: or the right of the people peaceably to assemble,
+ko: 또는 국민이 평화롭게 집회할 권리와
+
+jp: アンド・トゥー・ペティション・ザ・ガバメント・フォー・ア・リドレス・オブ・グリーバンシズ。
+en: and to petition the Government for a redress of grievances.
+ko: 고충의 구제를 위하여 정부에 청원할 권리를 제한하는 법률을 제정할 수 없다.
+
+jp: ア・ウェル・レギュレイテッド・ミリシア、ビーイング・ネセサリー・トゥー・ザ・セキュリティ・オブ・ア・フリー・ステイト、
+en: A well regulated Militia, being necessary to the security of a free State,
+ko: 규율 있는 민병대는 자유로운 주의 안보에 필요하므로,
+
+jp: ザ・ライト・オブ・ザ・ピープル・トゥー・キープ・アンド・ベア・アームズ、シャル・ノット・ビー・インフリンジド。
+en: the right of the people to keep and bear Arms, shall not be infringed.
+ko: 무기를 보유하고 휴대할 국민의 권리는 침해될 수 없다.
+
+jp: ノー・ソルジャー・シャル、イン・タイム・オブ・ピース・ビー・クォータード・イン・エニー・ハウス、
+en: No Soldier shall, in time of peace be quartered in any house,
+ko: 평화 시에 군인은 어떠한 가옥에도
+
+jp: ウィズアウト・ザ・コンセント・オブ・ジ・オーナー、ノア・イン・タイム・オブ・ウォー、
+en: without the consent of the Owner, nor in time of war,
+ko: 소유자의 동의 없이 숙영할 수 없으며, 전시에도
+
+jp: バット・イン・ア・マナー・トゥー・ビー・プリスクライブド・バイ・ロー。
+en: but in a manner to be prescribed by law.
+ko: 법률이 정하는 방법에 의하지 아니하고는 숙영할 수 없다.
+
+jp: ザ・ライト・オブ・ザ・ピープル・トゥー・ビー・セキュア
+en: The right of the people to be secure
+ko: 국민이 안전을 보장받을 권리,
+
+jp: イン・ゼア・パーソンズ、ハウジズ、ペーパーズ、アンド・エフェクツ、
+en: in their persons, houses, papers, and effects,
+ko: 즉 신체, 가택, 서류 및 소유물에 대하여
+
+jp: アゲンスト・アンリーズナブル・サーチズ・アンド・シージャーズ、シャル・ノット・ビー・バイオレイテッド、
+en: against unreasonable searches and seizures, shall not be violated,
+ko: 불합리한 수색과 압수를 받지 아니할 권리는 침해될 수 없으며,
+
+jp: アンド・ノー・ウォランツ・シャル・イシュー、バット・アポン・プロバブル・コーズ、
+en: and no Warrants shall issue, but upon probable cause,
+ko: 영장은 상당한 이유에 근거하고,
+
+jp: サポーテッド・バイ・オウス・オア・アファメーション、アンド・パティキュラリー・ディスクライビング
+en: supported by Oath or affirmation, and particularly describing
+ko: 선서 또는 확약으로 뒷받침되며, 특히
+
+jp: ザ・プレイス・トゥー・ビー・サーチト、アンド・ザ・パーソンズ・オア・シングズ・トゥー・ビー・シーズド。
+en: the place to be searched, and the persons or things to be seized.
+ko: 수색할 장소와 압수할 사람 또는 물건을 명시하지 아니하면 발부될 수 없다.
+
+jp: ノー・パーソン・シャル・ビー・ヘルド・トゥー・アンサー
+en: No person shall be held to answer
+ko: 누구든지 형사 책임을 지지 아니한다.
+
+jp: フォー・ア・キャピタル、オア・アザーワイズ・インファマス・クライム、
+en: for a capital, or otherwise infamous crime,
+ko: 사형에 해당하는 죄나 그 밖의 파렴치한 중죄에 대하여는
+
+jp: アンレス・オン・ア・プレゼントメント・オア・インダイトメント・オブ・ア・グランド・ジューリー、
+en: unless on a presentment or indictment of a Grand Jury,
+ko: 대배심의 고발 또는 기소에 의하지 아니하고는,
+
+jp: エクセプト・イン・ケーシズ・アライジング・イン・ザ・ランド・オア・ネーバル・フォーシズ、
+en: except in cases arising in the land or naval forces,
+ko: 다만 육군이나 해군에서 발생한 사건,
+
+jp: オア・イン・ザ・ミリシア、ホエン・イン・アクチュアル・サービス
+en: or in the Militia, when in actual service
+ko: 또는 실제로 복무 중인 민병대에서
+
+jp: イン・タイム・オブ・ウォー・オア・パブリック・デンジャー、
+en: in time of War or public danger;
+ko: 전시나 공공의 위험 시에 발생한 사건은 예외로 한다.
+
+jp: ノア・シャル・エニー・パーソン・ビー・サブジェクト・フォー・ザ・セイム・オフェンス
+en: nor shall any person be subject for the same offence
+ko: 누구든지 동일한 범죄로
+
+jp: トゥー・ビー・トワイス・プット・イン・ジェパディー・オブ・ライフ・オア・リム、
+en: to be twice put in jeopardy of life or limb;
+ko: 생명이나 신체의 위험에 두 번 처해지지 아니하며,
+
+jp: ノア・シャル・ビー・コンペルド・イン・エニー・クリミナル・ケース
+en: nor shall be compelled in any criminal case
+ko: 어떠한 형사 사건에서도
+
+jp: トゥー・ビー・ア・ウィットネス・アゲンスト・ヒムセルフ、
+en: to be a witness against himself,
+ko: 자기에게 불리한 증인이 되도록 강요받지 아니하며,
+
+jp: ノア・ビー・ディプライブド・オブ・ライフ、リバティ、オア・プロパティ、
+en: nor be deprived of life, liberty, or property,
+ko: 생명, 자유 또는 재산을
+
+jp: ウィズアウト・デュー・プロセス・オブ・ロー、
+en: without due process of law;
+ko: 적법한 절차 없이 박탈당하지 아니한다.
+
+jp: ノア・シャル・プライベート・プロパティ・ビー・テイクン・フォー・パブリック・ユース、
+en: nor shall private property be taken for public use,
+ko: 또한 사유 재산은 공공의 용도로 수용될 수 없다,
+
+jp: ウィズアウト・ジャスト・コンペンセーション。
+en: without just compensation.
+ko: 정당한 보상 없이는.
+
+jp: イン・オール・クリミナル・プロセキューションズ、ジ・アキューズド・シャル・エンジョイ・ザ・ライト
+en: In all criminal prosecutions, the accused shall enjoy the right
+ko: 모든 형사 소추에서 피고인은 다음의 권리를 누린다.
+
+jp: トゥー・ア・スピーディー・アンド・パブリック・トライアル、バイ・アン・インパーシャル・ジューリー
+en: to a speedy and public trial, by an impartial jury
+ko: 즉 공정한 배심에 의한 신속한 공개 재판을 받을 권리로서,
+
+jp: オブ・ザ・ステイト・アンド・ディストリクト・ウェアイン・ザ・クライム・シャル・ハブ・ビーン・コミッテッド、
+en: of the State and district wherein the crime shall have been committed,
+ko: 그 배심은 범죄가 행하여진 주와 지역의 배심이어야 하고,
+
+jp: ウィッチ・ディストリクト・シャル・ハブ・ビーン・プリービアスリー・アサーテインド・バイ・ロー、
+en: which district shall have been previously ascertained by law,
+ko: 그 지역은 법률로 미리 확정되어 있어야 한다.
+
+jp: アンド・トゥー・ビー・インフォームド・オブ・ザ・ネイチャー・アンド・コーズ・オブ・ジ・アキュゼーション、
+en: and to be informed of the nature and cause of the accusation;
+ko: 또한 공소 사실의 성질과 이유를 통지받고,
+
+jp: トゥー・ビー・コンフロンテッド・ウィズ・ザ・ウィットネシズ・アゲンスト・ヒム、
+en: to be confronted with the witnesses against him;
+ko: 자기에게 불리한 증인과 대질하며,
+
+jp: トゥー・ハブ・コンパルソリー・プロセス・フォー・オブテイニング・ウィットネシズ・イン・ヒズ・フェイバー、
+en: to have compulsory process for obtaining witnesses in his favor,
+ko: 자기에게 유리한 증인을 얻기 위하여 강제 절차를 이용하고,
+
+jp: アンド・トゥー・ハブ・ジ・アシスタンス・オブ・カウンセル・フォー・ヒズ・ディフェンス。
+en: and to have the Assistance of Counsel for his defence.
+ko: 자기의 방어를 위하여 변호인의 조력을 받을 권리를 가진다.
+
+jp: イン・スーツ・アット・コモン・ロー、
+en: In Suits at common law,
+ko: 보통법상의 소송에서
+
+jp: ウェア・ザ・バリュー・イン・コントロバーシー・シャル・エクシード・トゥエンティ・ダラーズ、
+en: where the value in controversy shall exceed twenty dollars,
+ko: 소송가액이 20달러를 초과하는 경우에는
+
+jp: ザ・ライト・オブ・トライアル・バイ・ジューリー・シャル・ビー・プリザーブド、
+en: the right of trial by jury shall be preserved,
+ko: 배심에 의한 재판을 받을 권리가 보장되며,
+
+jp: アンド・ノー・ファクト・トライド・バイ・ア・ジューリー、シャル・ビー・アザーワイズ・リエグザミンド
+en: and no fact tried by a jury, shall be otherwise re-examined
+ko: 배심이 심리한 사실은 달리 재심리될 수 없다.
+
+jp: イン・エニー・コート・オブ・ザ・ユナイテッド・ステイツ、
+en: in any Court of the United States,
+ko: 미합중국의 어떠한 법원에서도
+
+jp: ザン・アコーディング・トゥー・ザ・ルールズ・オブ・ザ・コモン・ロー。
+en: than according to the rules of the common law.
+ko: 보통법의 규칙에 따르는 경우를 제외하고는.
+
+jp: エクセッシブ・ベイル・シャル・ノット・ビー・リクワイアード、ノア・エクセッシブ・ファインズ・インポーズド、
+en: Excessive bail shall not be required, nor excessive fines imposed,
+ko: 과다한 보석금을 요구하거나, 과다한 벌금을 부과하거나,
+
+jp: ノア・クルーエル・アンド・アンユージュアル・パニッシュメンツ・インフリクテッド。
+en: nor cruel and unusual punishments inflicted.
+ko: 잔혹하고 비정상적인 형벌을 가하여서는 아니 된다.
+
+jp: ジ・イニュメレーション・イン・ザ・コンスティテューション、オブ・サーテン・ライツ、
+en: The enumeration in the Constitution, of certain rights,
+ko: 이 헌법에 특정 권리를 열거한 것이
+
+jp: シャル・ノット・ビー・コンストルード・トゥー・デナイ・オア・ディスパレッジ
+en: shall not be construed to deny or disparage
+ko: 다음을 부인하거나 경시하는 것으로 해석되어서는 아니 된다.
+
+jp: アザーズ・リテインド・バイ・ザ・ピープル。
+en: others retained by the people.
+ko: 즉 국민이 보유하는 그 밖의 권리이다.
+
+jp: ザ・パワーズ・ノット・デリゲーテッド・トゥー・ザ・ユナイテッド・ステイツ・バイ・ザ・コンスティテューション、
+en: The powers not delegated to the United States by the Constitution,
+ko: 이 헌법에 의하여 미합중국에 위임되지 아니하고,
+
+jp: ノア・プロヒビテッド・バイ・イット・トゥー・ザ・ステイツ、
+en: nor prohibited by it to the States,
+ko: 각 주에 금지되지도 아니한 권한은
+
+jp: アー・リザーブド・トゥー・ザ・ステイツ・リスペクティブリー、オア・トゥー・ザ・ピープル。
+en: are reserved to the States respectively, or to the people.
+ko: 각 주나 국민에게 각각 유보된다.

@@ -1,0 +1,98 @@
+# id: nonenglish
+# title: ヴァイマル憲法第48条（カタカナ）
+# title_en: Weimar Constitution, Article 48 (German in katakana)
+# title_ko: 바이마르 헌법 제48조 (가타카나 표기)
+# source: https://de.wikisource.org/wiki/Verfassung_des_Deutschen_Reichs_(1919) (also https://www.documentarchiv.de/wr/wrv.html)
+# note: Verfassung des Deutschen Reichs of 11 August 1919, Art. 48, original German; public domain (official text, author long deceased). Katakana transliteration by German pronunciation ("Abs." spelled out as Absatz; numbers spelled out in German). Scheme: voiced s = ジ/ゼ/ズ, ich-Laut = ヒ, ach-Laut = ハ, final -er = アー. English and Korean are original translations.
+
+jp: アルティケル・アハトウントフィアツィヒ
+en: Article forty-eight
+ko: 제48조
+
+jp: ヴェン・アイン・ラント・ディー・イーム・ナーハ・デア・ライヒスフェアファッスング
+en: If a state (Land), under the Reich Constitution
+ko: 어느 주(州)가 제국 헌법
+
+jp: オーダー・デン・ライヒスゲゼッツェン・オプリーゲンデン・プフリヒテン・ニヒト・エアフュルト、
+en: or the Reich laws, fails to fulfil the duties incumbent on it,
+ko: 또는 제국 법률에 따라 자신에게 부과된 의무를 이행하지 아니하는 때에는,
+
+jp: カン・デア・ライヒスプレジデント・エス・ダツー・ミット・ヒルフェ・デア・ベヴァフネテン・マハト・アンハルテン。
+en: the Reich President may compel it to do so with the aid of the armed forces.
+ko: 제국 대통령은 무력을 사용하여 그 이행을 강제할 수 있다.
+
+jp: デア・ライヒスプレジデント・カン、ヴェン・イム・ドイチェン・ライヒェ
+en: The Reich President may, if in the German Reich
+ko: 제국 대통령은, 독일 제국 내에서
+
+jp: ディー・エッフェントリヒェ・ジヒャーハイト・ウント・オルドヌング・エアヘープリヒ
+en: public safety and order is seriously
+ko: 공공의 안녕과 질서가 현저히
+
+jp: ゲシュテーアト・オーダー・ゲフェーアデット・ヴィルト、ディー・ツーア・ヴィーダーヘーアシュテルング
+en: disturbed or endangered, take the measures necessary for restoring
+ko: 교란되거나 위태롭게 되는 때에는,
+
+jp: デア・エッフェントリヒェン・ジヒャーハイト・ウント・オルドヌング・ネーティゲン・マースナーメン・トレッフェン、
+en: public safety and order,
+ko: 공공의 안녕과 질서의 회복에 필요한 조치를 취할 수 있으며,
+
+jp: エアフォルダーリヒェンファルス・ミット・ヒルフェ・デア・ベヴァフネテン・マハト・アインシュライテン。
+en: and if necessary intervene with the aid of the armed forces.
+ko: 필요한 경우에는 무력을 사용하여 개입할 수 있다.
+
+jp: ツー・ディーゼム・ツヴェッケ・ダルフ・エア・フォアユーバーゲーエント・ディー・イン・デン・アルティケルン
+en: For this purpose he may temporarily suspend the rights set out in Articles
+ko: 이 목적을 위하여 대통령은 일시적으로 다음 조항,
+
+jp: フンダートフィアツェーン、フンダートフュンフツェーン、フンダートジープツェーン、フンダートアハツェーン、
+en: 114, 115, 117, 118,
+ko: 제114조, 제115조, 제117조, 제118조,
+
+jp: フンダートドライウントツヴァンツィヒ、フンダートフィーアウントツヴァンツィヒ
+en: 123, 124
+ko: 제123조, 제124조
+
+jp: ウント・フンダートドライウントフュンフツィヒ・フェストゲゼッツテン・グルントレヒテ
+en: and 153 (the fundamental rights)
+ko: 및 제153조에 규정된 기본권을
+
+jp: ガンツ・オーダー・ツム・タイル・アウサー・クラフト・ゼッツェン。
+en: wholly or in part.
+ko: 전부 또는 일부 정지시킬 수 있다.
+
+jp: フォン・アレン・ゲメース・アプザッツ・アインス・オーダー・アプザッツ・ツヴァイ・ディーゼス・アルティケルス
+en: Of all measures taken under paragraph 1 or paragraph 2 of this Article
+ko: 본조 제1항 또는 제2항에 따라 취하여진 모든 조치에 관하여
+
+jp: ゲトロッフェネン・マースナーメン・ハット・デア・ライヒスプレジデント・ウンフェアツューグリヒ
+en: the Reich President must without delay
+ko: 제국 대통령은 지체 없이
+
+jp: デム・ライヒスターク・ケントニス・ツー・ゲーベン。
+en: inform the Reichstag.
+ko: 제국 의회에 통지하여야 한다.
+
+jp: ディー・マースナーメン・ジント・アウフ・フェアランゲン・デス・ライヒスタークス・アウサー・クラフト・ツー・ゼッツェン。
+en: The measures are to be revoked at the demand of the Reichstag.
+ko: 그 조치는 제국 의회의 요구가 있으면 효력을 상실시켜야 한다.
+
+jp: バイ・ゲファール・イム・フェアツーゲ・カン・ディー・ランデスレギールング・フューア・イーア・ゲビート
+en: When delay would be dangerous, a state government may, for its own territory,
+ko: 지체하면 위험이 있는 때에는 주 정부는 그 관할 구역에 대하여
+
+jp: アインストヴァイリゲ・マースナーメン・デア・イン・アプザッツ・ツヴァイ・ベツァイヒネテン・アールト・トレッフェン。
+en: take provisional measures of the kind described in paragraph 2.
+ko: 제2항에 규정된 종류의 잠정적 조치를 취할 수 있다.
+
+jp: ディー・マースナーメン・ジント・アウフ・フェアランゲン・デス・ライヒスプレジデンテン
+en: The measures are to be revoked at the demand of the Reich President
+ko: 그 조치는 제국 대통령 또는 제국 의회의 요구가 있으면
+
+jp: オーダー・デス・ライヒスタークス・アウサー・クラフト・ツー・ゼッツェン。
+en: or of the Reichstag.
+ko: 효력을 상실시켜야 한다.
+
+jp: ダス・ネーエレ・ベシュティムト・アイン・ライヒスゲゼッツ。
+en: Details are determined by a Reich law.
+ko: 상세한 사항은 제국 법률로 정한다.

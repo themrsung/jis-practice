@@ -1,0 +1,169 @@
+# id: popculture
+# title: 「残酷な天使のテーゼ」（解説）
+# title_en: "A Cruel Angel's Thesis" (commentary)
+# title_ko: 「잔혹한 천사의 테제」 (해설)
+# source: https://ja.wikipedia.org/wiki/残酷な天使のテーゼ
+# source: https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン
+# source: https://ja.wikipedia.org/wiki/高橋洋子_(歌手)
+# source: https://www.musicman.co.jp/business/12505
+# source: https://animeanime.jp/article/2011/05/25/8090.html
+# source: https://www.jasrac.or.jp/information/24/ja-21-30.html
+# source: http://www.oikawaneko.com/profile.html
+# note: Lyrics are NOT included: the lyrics (written by 及川眠子) are under copyright and managed by JASRAC, and this repository is public under MIT. If you own a copy, you can upload the lyrics yourself for session-only practice; they are not stored or redistributed.
+# note: All Japanese, English and Korean text below is original explanatory prose written for this app; facts were checked against the sources above.
+
+jp: 「{残酷|ざんこく}な{天使|てんし}のテーゼ」は、1995{年|ねん}に{発表|はっぴょう}された{歌|うた}です。
+en: "A Cruel Angel's Thesis" is a song released in 1995.
+ko: 「잔혹한 천사의 테제」는 1995년에 발표된 노래입니다.
+
+jp: {歌|うた}っているのは、{歌手|かしゅ}の{高橋洋子|たかはしようこ}さんです。
+en: It is sung by the singer Yoko Takahashi.
+ko: 노래를 부른 사람은 가수 다카하시 요코 씨입니다.
+
+jp: {作詞|さくし}は{及川眠子|おいかわねこ}さん、{作曲|さっきょく}は{佐藤英敏|さとうひでとし}さんです。
+en: The lyrics were written by Neko Oikawa, and the music was composed by Hidetoshi Sato.
+ko: 작사는 오이카와 네코 씨, 작곡은 사토 히데토시 씨입니다.
+
+jp: {編曲|へんきょく}を{手|て}がけたのは{大森俊之|おおもりとしゆき}さんです。
+en: The arrangement was done by Toshiyuki Omori.
+ko: 편곡을 맡은 사람은 오모리 도시유키 씨입니다.
+
+jp: シングルは1995{年|ねん}10{月|がつ}25{日|にち}に{発売|はつばい}されました。
+en: The single went on sale on October 25, 1995.
+ko: 싱글은 1995년 10월 25일에 발매되었습니다.
+
+jp: {発売元|はつばいもと}は、キングレコードのスターチャイルドというレーベルです。
+en: It was released on Star Child, a label of King Records.
+ko: 발매처는 킹 레코드의 스타차일드라는 레이블입니다.
+
+jp: {当時|とうじ}の{主流|しゅりゅう}だった、{直径|ちょっけい}8センチのCDシングルでした。
+en: It was an 8-centimeter CD single, the common format of the time.
+ko: 당시 주류였던 지름 8센티미터의 CD 싱글이었습니다.
+
+jp: カップリング{曲|きょく}は「{月|つき}の{迷宮|めいきゅう}」でした。
+en: The B-side was "Tsuki no Meikyuu" (Labyrinth of the Moon).
+ko: 커플링 곡은 「달의 미궁」이었습니다.
+
+jp: この{曲|きょく}は、テレビアニメ「{新世紀|しんせいき}エヴァンゲリオン」の{主題歌|しゅだいか}です。
+en: The song is the theme song of the TV anime "Neon Genesis Evangelion."
+ko: 이 곡은 TV 애니메이션 「신세기 에반게리온」의 주제가입니다.
+
+jp: {毎回|まいかい}、オープニングでこの{曲|きょく}が{流|なが}れました。
+en: It played over the opening of every episode.
+ko: 매회 오프닝에서 이 곡이 흘러나왔습니다.
+
+jp: {番組|ばんぐみ}はテレビ{東京|とうきょう}{系列|けいれつ}で{放送|ほうそう}されました。
+en: The program was broadcast on the TV Tokyo network.
+ko: 프로그램은 TV 도쿄 계열에서 방송되었습니다.
+
+jp: {放送|ほうそう}{期間|きかん}は、1995{年|ねん}10{月|がつ}から1996{年|ねん}3{月|がつ}までです。
+en: It aired from October 1995 to March 1996.
+ko: 방송 기간은 1995년 10월부터 1996년 3월까지입니다.
+
+jp: {全|ぜん}26{話|わ}の{作品|さくひん}で、{監督|かんとく}は{庵野秀明|あんのひであき}さんです。
+en: The series has 26 episodes and was directed by Hideaki Anno.
+ko: 전 26화의 작품으로, 감독은 안노 히데아키 씨입니다.
+
+jp: アニメーション{制作|せいさく}は、ガイナックスとタツノコプロが{担|にな}いました。
+en: Animation production was handled by Gainax and Tatsunoko Production.
+ko: 애니메이션 제작은 가이낙스와 다쓰노코 프로가 맡았습니다.
+
+jp: エンディングには「FLY ME TO THE MOON」が{使|つか}われました。
+en: "Fly Me to the Moon" was used as the ending theme.
+ko: 엔딩에는 「FLY ME TO THE MOON」이 쓰였습니다.
+
+jp: {曲名|きょくめい}の「テーゼ」は、ドイツ{語|ご}で「{命題|めいだい}」を{意味|いみ}します。
+en: The "These" in the title is German for "thesis" or "proposition."
+ko: 곡명의 「테제」는 독일어로 「명제」를 뜻합니다.
+
+jp: {英語|えいご}では「A Cruel Angel's Thesis」と{呼|よ}ばれています。
+en: In English it is known as "A Cruel Angel's Thesis."
+ko: 영어로는 「A Cruel Angel's Thesis」라고 불립니다.
+
+jp: {題名|だいめい}は、{萩尾望都|はぎおもと}さんの{漫画|まんが}に{着想|ちゃくそう}を{得|え}たとされます。
+en: The title is said to have been inspired by a manga by Moto Hagio.
+ko: 제목은 하기오 모토 씨의 만화에서 착상을 얻었다고 합니다.
+
+jp: その{漫画|まんが}とは、「{残酷|ざんこく}な{神|かみ}が{支配|しはい}する」という{作品|さくひん}です。
+en: That manga is "A Cruel God Reigns."
+ko: 그 만화는 「잔혹한 신이 지배한다」라는 작품입니다.
+
+jp: {及川|おいかわ}さんは、デモテープを{聞|き}いて2{時間|じかん}で{詞|し}を{書|か}き{上|あ}げたそうです。
+en: Oikawa reportedly finished the lyrics in two hours after hearing the demo tape.
+ko: 오이카와 씨는 데모 테이프를 듣고 두 시간 만에 가사를 완성했다고 합니다.
+
+jp: オリコンの{週間|しゅうかん}チャートでは、{最高|さいこう}27{位|い}でした。
+en: On the weekly Oricon chart, it peaked at number 27.
+ko: 오리콘 주간 차트에서는 최고 27위였습니다.
+
+jp: しかし{人気|にんき}は、{放送|ほうそう}が{終|お}わった{後|あと}も{長|なが}く{続|つづ}きました。
+en: Its popularity, however, lasted long after the broadcast ended.
+ko: 그러나 인기는 방송이 끝난 뒤에도 오래 이어졌습니다.
+
+jp: カラオケでは、{今|いま}も{定番|ていばん}の{一曲|いっきょく}として{歌|うた}われています。
+en: It is still sung as a karaoke standard today.
+ko: 노래방에서는 지금도 단골 곡으로 불리고 있습니다.
+
+jp: JOYSOUNDの{平成|へいせい}カラオケランキングでは、1{位|い}になりました。
+en: It ranked first in JOYSOUND's karaoke ranking of the Heisei era.
+ko: JOYSOUND의 헤이세이 노래방 랭킹에서는 1위를 차지했습니다.
+
+jp: DAMの{平成|へいせい}{期間|きかん}のランキングでも、3{位|い}に{入|はい}りました。
+en: It also placed third in DAM's ranking for the Heisei period.
+ko: DAM의 헤이세이 기간 랭킹에서도 3위에 올랐습니다.
+
+jp: JASRACの{分配額|ぶんぱいがく}では、2009{年度|ねんど}に3{位|い}となりました。
+en: In JASRAC royalty distributions, it ranked third for fiscal 2009.
+ko: JASRAC 분배액에서는 2009년도에 3위가 되었습니다.
+
+jp: {翌年度|よくねんど}には1{位|い}となり、2011{年|ねん}のJASRAC{賞|しょう}{金賞|きんしょう}を{受|う}けました。
+en: The following year it ranked first and received the 2011 JASRAC Gold Award.
+ko: 이듬해에는 1위가 되어 2011년 JASRAC상 금상을 받았습니다.
+
+jp: {発表|はっぴょう}から15{年|ねん}たった{曲|きょく}の{受賞|じゅしょう}は、{話題|わだい}を{呼|よ}びました。
+en: An award for a song released fifteen years earlier drew much attention.
+ko: 발표 후 15년이 지난 곡의 수상은 화제가 되었습니다.
+
+jp: {使用料|しようりょう}の{約|やく}{半分|はんぶん}は、パチンコでの{使用|しよう}によるものとされます。
+en: About half of the royalties are said to come from use in pachinko machines.
+ko: 사용료의 약 절반은 파친코에서의 사용으로 인한 것이라고 합니다.
+
+jp: 2009{年|ねん}には、パチンコ{機|き}のイメージソングとして2009VERSIONが{出|で}ました。
+en: In 2009, the "2009 Version" was released as an image song for a pachinko machine.
+ko: 2009년에는 파친코 기기의 이미지 송으로 2009VERSION이 나왔습니다.
+
+jp: 2015{年|ねん}には、2015VERSIONも{発表|はっぴょう}されています。
+en: A "2015 Version" was also released in 2015.
+ko: 2015년에는 2015VERSION도 발표되었습니다.
+
+jp: 2019{年|ねん}には、{和太鼓|わだいこ}を{取|と}り{入|い}れたMATSURI SPIRITが{出|で}ました。
+en: In 2019, "MATSURI SPIRIT," featuring Japanese taiko drums, was released.
+ko: 2019년에는 일본 전통 북을 도입한 MATSURI SPIRIT이 나왔습니다.
+
+jp: この{版|はん}には、{和太鼓|わだいこ}{奏者|そうしゃ}の{林英哲|はやしえいてつ}さんが{参加|さんか}しています。
+en: Taiko player Eitetsu Hayashi took part in this version.
+ko: 이 버전에는 일본 북 연주자 하야시 에이테쓰 씨가 참여했습니다.
+
+jp: CDシングルは、ダブル・プラチナの{認定|にんてい}を{受|う}けています。
+en: The CD single has been certified double platinum.
+ko: CD 싱글은 더블 플래티넘 인증을 받았습니다.
+
+jp: {配信|はいしん}でも、2014{年|ねん}にミリオンの{認定|にんてい}を{受|う}けました。
+en: As a digital download, it was certified million in 2014.
+ko: 디지털 음원으로도 2014년에 밀리언 인증을 받았습니다.
+
+jp: 2021{年|ねん}の{大|おお}みそか、{高橋|たかはし}さんは{紅白歌合戦|こうはくうたがっせん}に{初|はつ}{出場|しゅつじょう}しました。
+en: On New Year's Eve 2021, Takahashi appeared on Kohaku Uta Gassen for the first time.
+ko: 2021년 섣달그믐, 다카하시 씨는 홍백가합전에 처음 출연했습니다.
+
+jp: {特別|とくべつ}{企画|きかく}の{中|なか}で、この{歌|うた}を{披露|ひろう}しました。
+en: She performed this song as part of a special segment.
+ko: 특별 기획 속에서 이 노래를 선보였습니다.
+
+jp: エヴァンゲリオンは、{第三次|だいさんじ}アニメブームのきっかけとされる{作品|さくひん}です。
+en: Evangelion is regarded as a trigger of the third anime boom.
+ko: 에반게리온은 제3차 애니메이션 붐의 계기로 여겨지는 작품입니다.
+
+jp: その{主題歌|しゅだいか}は、{世代|せだい}を{問|と}わず{知|し}られる{一曲|いっきょく}となりました。
+en: Its theme song has become one known across generations.
+ko: 그 주제가는 세대를 불문하고 알려진 곡이 되었습니다.

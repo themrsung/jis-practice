@@ -1,0 +1,813 @@
+# id: korean
+# title: KOSPI200 企業・代表者・主力製品
+# title_en: KOSPI 200 companies, CEOs and main products
+# title_ko: 코스피200 구성종목 기업·대표이사·주력 제품
+# source: https://m.stock.naver.com/api/index/KPI200/enrollStocks (KOSPI 200 constituent list and market cap, retrieved 2026-10-02)
+# source: https://www.mt.co.kr/stock/2026/05/22/2026052216475197563 (KRX June 2026 regular rebalance, effective 2026-06-15)
+# source: https://opendart.fss.or.kr (DART company overview, ceo_nm, retrieved 2026-10-02)
+# note: 201 constituents as of 2026-10-02 (200 after the June 2026 rebalance plus the Hanwha Machinery & Service Holdings spin-off listed 2026-08-25), ordered by market capitalization on that date.
+# note: CEO names are the registered representative directors in DART; products and business lines are summarized from company disclosures and general knowledge. Katakana follow Korean pronunciation.
+
+jp: サムスン{電子|でんし}の{代表|だいひょう}はチョン・ヨンヒョンとノ・テムン、{主力製品|しゅりょくせいひん}はメモリ{半導体|はんどうたい}とスマートフォン。
+en: Samsung Electronics — CEOs: Jun Young-hyun and Roh Tae-moon; main products: memory semiconductors and smartphones.
+ko: 삼성전자 — 대표이사: 전영현, 노태문; 주력 제품: 메모리 반도체, 스마트폰.
+
+jp: SKハイニックスの{代表|だいひょう}はクァク・ノジョン、{主力製品|しゅりょくせいひん}はDRAMやHBMなどのメモリ{半導体|はんどうたい}。
+en: SK hynix — CEO: Kwak Noh-jung; main products: DRAM, HBM and other memory chips.
+ko: SK하이닉스 — 대표이사: 곽노정; 주력 제품: D램, HBM 등 메모리 반도체.
+
+jp: SKスクエアの{代表|だいひょう}はキム・ジョンギュ、{主力事業|しゅりょくじぎょう}はSKハイニックスなどへの{投資|とうし}。
+en: SK Square — CEO: Kim Jung-kyu; main business: investment holdings in SK hynix and ICT companies.
+ko: SK스퀘어 — 대표이사: 김정규; 주력 사업: SK하이닉스 등 반도체·ICT 투자.
+
+jp: サムスン{電機|でんき}の{代表|だいひょう}はチャン・ドクヒョン、{主力製品|しゅりょくせいひん}はMLCCとパッケージ{基板|きばん}とカメラモジュール。
+en: Samsung Electro-Mechanics — CEO: Chang Duck-hyun; main products: MLCCs, package substrates and camera modules.
+ko: 삼성전기 — 대표이사: 장덕현; 주력 제품: MLCC, 패키지 기판, 카메라 모듈.
+
+jp: LGエナジーソリューションの{代表|だいひょう}はキム・ドンミョン、{主力製品|しゅりょくせいひん}は{電気自動車|でんきじどうしゃ}{用|よう}バッテリーとESS。
+en: LG Energy Solution — CEO: Kim Dong-myung; main products: EV batteries and energy storage systems.
+ko: LG에너지솔루션 — 대표이사: 김동명; 주력 제품: 전기차 배터리, ESS.
+
+jp: ヒョンデ{自動車|じどうしゃ}の{代表|だいひょう}はチョン・ウィソン、ホセ・ムニョスとチェ・ヨンイル、{主力製品|しゅりょくせいひん}は{乗用車|じょうようしゃ}とSUVと{電気自動車|でんきじどうしゃ}。
+en: Hyundai Motor Company — CEOs: Chung Eui-sun, Jose Munoz and Choi Young-il; main products: passenger cars, SUVs and EVs.
+ko: 현대자동차 — 대표이사: 정의선, 호세 무뇨스, 최영일; 주력 제품: 승용차, SUV, 전기차.
+
+jp: サムスンバイオロジクスの{代表|だいひょう}はジョン・リム、{主力事業|しゅりょくじぎょう}はバイオ{医薬品|いやくひん}の{受託|じゅたく}{開発|かいはつ}{製造|せいぞう}。
+en: Samsung Biologics — CEO: John Rim; main business: biopharmaceutical contract development and manufacturing (CDMO).
+ko: 삼성바이오로직스 — 대표이사: 존 림; 주력 사업: 바이오의약품 위탁개발생산(CDMO).
+
+jp: KB{金融|きんゆう}グループの{代表|だいひょう}はヤン・ジョンヒ、{主力事業|しゅりょくじぎょう}は{銀行|ぎんこう}と{証券|しょうけん}と{保険|ほけん}。
+en: KB Financial Group — CEO: Yang Jong-hee; main business: banking, securities and insurance.
+ko: KB금융지주 — 대표이사: 양종희; 주력 사업: 은행, 증권, 보험.
+
+jp: サムスン{生命|せいめい}の{代表|だいひょう}はホン・ウォンハク、{主力事業|しゅりょくじぎょう}は{生命保険|せいめいほけん}。
+en: Samsung Life Insurance — CEO: Hong Won-hak; main business: life insurance.
+ko: 삼성생명 — 대표이사: 홍원학; 주력 사업: 생명보험.
+
+jp: サムスン{物産|ぶっさん}の{代表|だいひょう}はオ・セチョル、イ・ジェオンとソン・ギュジョン、{主力事業|しゅりょくじぎょう}は{建設|けんせつ}と{商社|しょうしゃ}とファッション。
+en: Samsung C&T — CEOs: Oh Se-chul, Lee Jae-eon and Song Kyu-jong; main business: construction, trading and fashion.
+ko: 삼성물산 — 대표이사: 오세철, 이재언, 송규종; 주력 사업: 건설, 상사, 패션.
+
+jp: ハンファエアロスペースの{代表|だいひょう}はキム・ドングァンとイ・ブファン、{主力製品|しゅりょくせいひん}はK9{自走砲|じそうほう}と{航空機|こうくうき}エンジン。
+en: Hanwha Aerospace — CEOs: Kim Dong-kwan and Lee Bu-hwan; main products: K9 self-propelled howitzers and aircraft engines.
+ko: 한화에어로스페이스 — 대표이사: 김동관, 이부환; 주력 제품: K9 자주포, 항공기 엔진.
+
+jp: ドゥサンエナビリティの{代表|だいひょう}はパク・チウォン、チョン・ヨニンとパク・サンヒョン、{主力製品|しゅりょくせいひん}は{原子力|げんしりょく}{発電|はつでん}{設備|せつび}とガスタービン。
+en: Doosan Enerbility — CEOs: Park Ji-won, Jung Yeon-in and Park Sang-hyun; main products: nuclear power equipment and gas turbines.
+ko: 두산에너빌리티 — 대표이사: 박지원, 정연인, 박상현; 주력 제품: 원전 설비, 가스터빈.
+
+jp: シンハン{金融|きんゆう}グループの{代表|だいひょう}はチン・オクトン、{主力事業|しゅりょくじぎょう}は{銀行|ぎんこう}とカードと{証券|しょうけん}。
+en: Shinhan Financial Group — CEO: Jin Ok-dong; main business: banking, credit cards and securities.
+ko: 신한금융지주 — 대표이사: 진옥동; 주력 사업: 은행, 카드, 증권.
+
+jp: HDヒョンデ{重工業|じゅうこうぎょう}の{代表|だいひょう}はイ・サンギュンとクム・ソクホ、{主力製品|しゅりょくせいひん}はLNG{運搬船|うんぱんせん}などの{船舶|せんぱく}と{艦艇|かんてい}。
+en: HD Hyundai Heavy Industries — CEOs: Lee Sang-kyun and Keum Seok-ho; main products: ships such as LNG carriers, and naval vessels.
+ko: HD현대중공업 — 대표이사: 이상균, 금석호; 주력 제품: LNG운반선 등 선박, 함정.
+
+jp: キアの{代表|だいひょう}はソン・ホソンとソン・ミンス、{主力製品|しゅりょくせいひん}は{乗用車|じょうようしゃ}とSUVと{電気自動車|でんきじどうしゃ}。
+en: Kia — CEOs: Song Ho-sung and Song Min-soo; main products: passenger cars, SUVs and EVs.
+ko: 기아 — 대표이사: 송호성, 송민수; 주력 제품: 승용차, SUV, 전기차.
+
+jp: サムスンSDIの{代表|だいひょう}はチェ・ジュソン、{主力製品|しゅりょくせいひん}は{二次電池|にじでんち}と{電子材料|でんしざいりょう}。
+en: Samsung SDI — CEO: Choi Joo-sun; main products: rechargeable batteries and electronic materials.
+ko: 삼성SDI — 대표이사: 최주선; 주력 제품: 이차전지, 전자재료.
+
+jp: セルトリオンの{代表|だいひょう}はキ・ウソンとソ・ジンソク、{主力製品|しゅりょくせいひん}はバイオシミラーと{抗体医薬品|こうたいいやくひん}。
+en: Celltrion — CEOs: Kee Woo-sung and Seo Jin-seok; main products: biosimilars and antibody drugs.
+ko: 셀트리온 — 대표이사: 기우성, 서진석; 주력 제품: 바이오시밀러, 항체의약품.
+
+jp: SKの{代表|だいひょう}はチェ・テウォンとチャン・ヨンホ、{主力事業|しゅりょくじぎょう}は{持株|もちかぶ}{会社|がいしゃ}とITサービス。
+en: SK Inc. — CEOs: Chey Tae-won and Jang Yong-ho; main business: holding company and IT services.
+ko: SK — 대표이사: 최태원, 장용호; 주력 사업: 지주회사, IT 서비스.
+
+jp: ハナ{金融|きんゆう}グループの{代表|だいひょう}はハム・ヨンジュ、{主力事業|しゅりょくじぎょう}は{銀行|ぎんこう}と{証券|しょうけん}とカード。
+en: Hana Financial Group — CEO: Ham Young-joo; main business: banking, securities and credit cards.
+ko: 하나금융지주 — 대표이사: 함영주; 주력 사업: 은행, 증권, 카드.
+
+jp: LG{電子|でんし}の{代表|だいひょう}はリュ・ジェチョル、{主力製品|しゅりょくせいひん}は{家電|かでん}とテレビと{車載|しゃさい}{部品|ぶひん}。
+en: LG Electronics — CEO: Lyu Jae-cheol; main products: home appliances, TVs and automotive components.
+ko: LG전자 — 대표이사: 류재철; 주력 제품: 가전, TV, 전장부품.
+
+jp: ヒョンデモービスの{代表|だいひょう}はチョン・ウィソンとイ・ギュソク、{主力製品|しゅりょくせいひん}は{自動車|じどうしゃ}{部品|ぶひん}とモジュール。
+en: Hyundai Mobis — CEOs: Chung Eui-sun and Lee Kyu-seok; main products: auto parts and modules.
+ko: 현대모비스 — 대표이사: 정의선, 이규석; 주력 제품: 자동차 부품, 모듈.
+
+jp: LSエレクトリックの{代表|だいひょう}はク・ジャギュンとチェ・デソク、{主力製品|しゅりょくせいひん}は{電力|でんりょく}{機器|きき}と{自動化|じどうか}{機器|きき}。
+en: LS ELECTRIC — CEOs: Koo Ja-kyun and Chae Dae-seok; main products: power equipment and automation equipment.
+ko: LS ELECTRIC — 대표이사: 구자균, 채대석; 주력 제품: 전력기기, 자동화기기.
+
+jp: ネイバーの{代表|だいひょう}はチェ・スヨン、{主力事業|しゅりょくじぎょう}は{検索|けんさく}ポータルとコマースとウェブトゥーン。
+en: NAVER — CEO: Choi Soo-yeon; main business: search portal, e-commerce and webtoons.
+ko: NAVER — 대표이사: 최수연; 주력 사업: 검색 포털, 커머스, 웹툰.
+
+jp: サムスン{火災海上保険|かさいかいじょうほけん}の{代表|だいひょう}はイ・ムンファ、{主力事業|しゅりょくじぎょう}は{損害保険|そんがいほけん}。
+en: Samsung Fire & Marine Insurance — CEO: Lee Mun-hwa; main business: property and casualty insurance.
+ko: 삼성화재해상보험 — 대표이사: 이문화; 주력 사업: 손해보험.
+
+jp: ヒョソン{重工業|じゅうこうぎょう}の{代表|だいひょう}はウ・テヒ、{主力製品|しゅりょくせいひん}は{変圧器|へんあつき}と{遮断器|しゃだんき}。
+en: Hyosung Heavy Industries — CEO: Woo Tae-hee; main products: power transformers and circuit breakers.
+ko: 효성중공업 — 대표이사: 우태희; 주력 제품: 변압기, 차단기.
+
+jp: ハンミ{半導体|はんどうたい}の{代表|だいひょう}はクァク・トンシン、{主力製品|しゅりょくせいひん}はHBM{用|よう}TCボンダー。
+en: Hanmi Semiconductor — CEO: Kwak Dong-shin; main products: TC bonders for HBM.
+ko: 한미반도체 — 대표이사: 곽동신; 주력 제품: HBM용 TC 본더.
+
+jp: SKイノベーションの{代表|だいひょう}はチュ・ヒョンウクとチャン・ヨンホ、{主力製品|しゅりょくせいひん}は{石油精製|せきゆせいせい}と{石油化学|せきゆかがく}とバッテリー。
+en: SK Innovation — CEOs: Choo Hyung-uk and Jang Yong-ho; main products: oil refining, petrochemicals and batteries.
+ko: SK이노베이션 — 대표이사: 추형욱, 장용호; 주력 제품: 정유, 석유화학, 배터리.
+
+jp: ウリ{金融|きんゆう}グループの{代表|だいひょう}はイム・ジョンニョン、{主力事業|しゅりょくじぎょう}は{銀行|ぎんこう}と{証券|しょうけん}と{保険|ほけん}。
+en: Woori Financial Group — CEO: Yim Jong-yong; main business: banking, securities and insurance.
+ko: 우리금융지주 — 대표이사: 임종룡; 주력 사업: 은행, 증권, 보험.
+
+jp: POSCOホールディングスの{代表|だいひょう}はチャン・インファとイ・ジュテ、{主力製品|しゅりょくせいひん}は{鉄鋼|てっこう}と{二次電池|にじでんち}{素材|そざい}。
+en: POSCO Holdings — CEOs: Chang In-hwa and Lee Joo-tae; main products: steel and battery materials.
+ko: POSCO홀딩스 — 대표이사: 장인화, 이주태; 주력 제품: 철강, 이차전지 소재.
+
+jp: HDヒョンデエレクトリックの{代表|だいひょう}はキム・ヨンギ、{主力製品|しゅりょくせいひん}は{変圧器|へんあつき}と{配電|はいでん}{機器|きき}。
+en: HD Hyundai Electric — CEO: Kim Young-ki; main products: power transformers and distribution equipment.
+ko: HD현대일렉트릭 — 대표이사: 김영기; 주력 제품: 변압기, 배전기기.
+
+jp: ハンファオーシャンの{代表|だいひょう}はキム・ヒチョル、{主力製品|しゅりょくせいひん}はLNG{運搬船|うんぱんせん}と{潜水艦|せんすいかん}。
+en: Hanwha Ocean — CEO: Kim Hee-chul; main products: LNG carriers and submarines.
+ko: 한화오션 — 대표이사: 김희철; 주력 제품: LNG운반선, 잠수함.
+
+jp: HD{韓国造船海洋|かんこくぞうせんかいよう}の{代表|だいひょう}はチョン・ギソンとキム・ヒョングァン、{主力製品|しゅりょくせいひん}は{船舶|せんぱく}と{海洋|かいよう}プラント。
+en: HD Korea Shipbuilding & Offshore Engineering — CEOs: Chung Ki-sun and Kim Hyung-gwan; main products: ships and offshore plants.
+ko: HD한국조선해양 — 대표이사: 정기선, 김형관; 주력 제품: 선박, 해양플랜트.
+
+jp: {高麗亜鉛|こうらいあえん}の{代表|だいひょう}はパク・キドク、{主力製品|しゅりょくせいひん}は{亜鉛|あえん}と{鉛|なまり}と{銀|ぎん}。
+en: Korea Zinc — CEO: Park Ki-deok; main products: zinc, lead and silver.
+ko: 고려아연 — 대표이사: 박기덕; 주력 제품: 아연, 연, 은.
+
+jp: ドゥサンの{代表|だいひょう}はパク・チョンウォン、キム・ミンチョルとユ・スンウ、{主力製品|しゅりょくせいひん}は{銅張積層板|どうばりせきそうばん}などの{電子材料|でんしざいりょう}。
+en: Doosan Corporation — CEOs: Park Jeong-won, Kim Min-chul and Yoo Seung-woo; main products: electronic materials such as copper-clad laminates.
+ko: 두산 — 대표이사: 박정원, 김민철, 유승우; 주력 제품: 동박적층판 등 전자소재.
+
+jp: メリッツ{金融|きんゆう}グループの{代表|だいひょう}はキム・ヨンボム、{主力事業|しゅりょくじぎょう}は{損害保険|そんがいほけん}と{証券|しょうけん}。
+en: Meritz Financial Group — CEO: Kim Yong-beom; main business: non-life insurance and securities.
+ko: 메리츠금융지주 — 대표이사: 김용범; 주력 사업: 손해보험, 증권.
+
+jp: HMMの{代表|だいひょう}はチェ・ウォンヒョク、{主力事業|しゅりょくじぎょう}はコンテナ{海運|かいうん}。
+en: HMM — CEO: Choi Won-hyuk; main business: container shipping.
+ko: HMM — 대표이사: 최원혁; 주력 사업: 컨테이너 해운.
+
+jp: {韓国電力公社|かんこくでんりょくこうしゃ}の{代表|だいひょう}はキム・ドンチョル、{主力事業|しゅりょくじぎょう}は{電力|でんりょく}の{販売|はんばい}と{送配電|そうはいでん}。
+en: KEPCO — CEO: Kim Dong-chul; main business: electricity sales, transmission and distribution.
+ko: 한국전력공사 — 대표이사: 김동철; 주력 사업: 전력 판매, 송배전.
+
+jp: SKテレコムの{代表|だいひょう}はチョン・ジェホン、{主力事業|しゅりょくじぎょう}は{移動通信|いどうつうしん}とAIサービス。
+en: SK Telecom — CEO: Jung Jae-heon; main business: mobile telecommunications and AI services.
+ko: SK텔레콤 — 대표이사: 정재헌; 주력 사업: 이동통신, AI 서비스.
+
+jp: S-OILの{代表|だいひょう}はアンワル・アルヒジャジ、{主力製品|しゅりょくせいひん}は{石油精製|せきゆせいせい}と{潤滑油|じゅんかつゆ}と{石油化学|せきゆかがく}。
+en: S-OIL — CEO: Anwar A. Al-Hejazi; main products: refined petroleum, lube base oil and petrochemicals.
+ko: S-OIL — 대표이사: 안와르 알히자지; 주력 제품: 정유, 윤활기유, 석유화학.
+
+jp: LG{化学|かがく}の{代表|だいひょう}はキム・ドンチュン、{主力製品|しゅりょくせいひん}は{石油化学|せきゆかがく}と{電池材料|でんちざいりょう}と{医薬品|いやくひん}。
+en: LG Chem — CEO: Kim Dong-chun; main products: petrochemicals, battery materials and pharmaceuticals.
+ko: LG화학 — 대표이사: 김동춘; 주력 제품: 석유화학, 전지 소재, 의약품.
+
+jp: KT&Gの{代表|だいひょう}はパン・ギョンマン、{主力製品|しゅりょくせいひん}はたばこと{紅参|こうじん}{製品|せいひん}。
+en: KT&G — CEO: Bang Kyung-man; main products: tobacco and red ginseng products.
+ko: KT&G — 대표이사: 방경만; 주력 제품: 담배, 홍삼.
+
+jp: サムスン{重工業|じゅうこうぎょう}の{代表|だいひょう}はチェ・ソンアン、{主力製品|しゅりょくせいひん}はLNG{運搬船|うんぱんせん}とFLNG。
+en: Samsung Heavy Industries — CEO: Choi Sung-an; main products: LNG carriers and FLNG units.
+ko: 삼성중공업 — 대표이사: 최성안; 주력 제품: LNG운반선, FLNG.
+
+jp: ミレアセット{証券|しょうけん}の{代表|だいひょう}はキム・ミソプとホ・ソンホ、{主力事業|しゅりょくじぎょう}は{証券|しょうけん}{仲介|ちゅうかい}と{資産運用|しさんうんよう}。
+en: Mirae Asset Securities — CEOs: Kim Mi-seop and Huh Sun-ho; main business: brokerage and wealth management.
+ko: 미래에셋증권 — 대표이사: 김미섭, 허선호; 주력 사업: 증권 중개, 자산관리.
+
+jp: サムスンSDSの{代表|だいひょう}はイ・ジュンヒ、{主力事業|しゅりょくじぎょう}はITサービスとクラウドと{物流|ぶつりゅう}。
+en: Samsung SDS — CEO: Lee Jun-hee; main business: IT services, cloud and logistics.
+ko: 삼성SDS — 대표이사: 이준희; 주력 사업: IT 서비스, 클라우드, 물류.
+
+jp: LGの{代表|だいひょう}はク・グァンモとクォン・ボンソク、{主力事業|しゅりょくじぎょう}はLGグループの{持株|もちかぶ}{会社|がいしゃ}。
+en: LG Corp. — CEOs: Koo Kwang-mo and Kwon Bong-seok; main business: holding company of LG Group.
+ko: LG — 대표이사: 구광모, 권봉석; 주력 사업: LG그룹 지주회사.
+
+jp: LIGディフェンスアンドエアロスペースの{代表|だいひょう}はシン・イクヒョン、{主力製品|しゅりょくせいひん}は{誘導|ゆうどう}ミサイルとレーダー。
+en: LIG Defense & Aerospace — CEO: Shin Ik-hyun; main products: guided missiles and radars.
+ko: LIG디펜스앤에어로스페이스 — 대표이사: 신익현; 주력 제품: 유도무기, 레이더.
+
+jp: POSCOフューチャーMの{代表|だいひょう}はオム・ギチョン、{主力製品|しゅりょくせいひん}は{正極材|せいきょくざい}と{負極材|ふきょくざい}。
+en: POSCO Future M — CEO: Um Ki-cheon; main products: cathode and anode materials.
+ko: 포스코퓨처엠 — 대표이사: 엄기천; 주력 제품: 양극재, 음극재.
+
+jp: IBK{企業銀行|きぎょうぎんこう}の{代表|だいひょう}はチャン・ミニョン、{主力事業|しゅりょくじぎょう}は{中小企業|ちゅうしょうきぎょう}{向|む}け{融資|ゆうし}。
+en: Industrial Bank of Korea — CEO: Jang Min-young; main business: lending to small and medium-sized enterprises.
+ko: IBK기업은행 — 대표이사: 장민영; 주력 사업: 중소기업 대출.
+
+jp: HDヒョンデの{代表|だいひょう}はチョン・ギソンとチョ・ヨンチョル、{主力事業|しゅりょくじぎょう}は{持株|もちかぶ}{会社|がいしゃ}と{石油精製|せきゆせいせい}。
+en: HD Hyundai — CEOs: Chung Ki-sun and Cho Young-chul; main business: holding company and oil refining.
+ko: HD현대 — 대표이사: 정기선, 조영철; 주력 사업: 지주회사, 정유.
+
+jp: ハンファシステムの{代表|だいひょう}はヤン・ギウォン、{主力製品|しゅりょくせいひん}は{防衛|ぼうえい}{電子|でんし}{機器|きき}とITサービス。
+en: Hanwha Systems — CEO: Yang Ki-won; main products: defense electronics and IT services.
+ko: 한화시스템 — 대표이사: 양기원; 주력 제품: 방산전자, ICT 서비스.
+
+jp: ヒョンデグロービスの{代表|だいひょう}はイ・ギュボク、{主力事業|しゅりょくじぎょう}は{物流|ぶつりゅう}と{自動車|じどうしゃ}{運搬船|うんぱんせん}と{中古車|ちゅうこしゃ}。
+en: Hyundai Glovis — CEO: Lee Kyu-bok; main business: logistics, car-carrier shipping and used cars.
+ko: 현대글로비스 — 대표이사: 이규복; 주력 사업: 물류, 자동차 운반선, 중고차.
+
+jp: カカオの{代表|だいひょう}はチョン・シナ、{主力事業|しゅりょくじぎょう}はカカオトークとコンテンツ。
+en: Kakao — CEO: Chung Shin-a; main business: the KakaoTalk messenger and content.
+ko: 카카오 — 대표이사: 정신아; 주력 사업: 카카오톡, 콘텐츠.
+
+jp: APRの{代表|だいひょう}はキム・ビョンフン、{主力製品|しゅりょくせいひん}はメディキューブの{化粧品|けしょうひん}と{美容|びよう}{機器|きき}。
+en: APR — CEO: Kim Byeong-hoon; main products: medicube cosmetics and beauty devices.
+ko: 에이피알 — 대표이사: 김병훈; 주력 제품: 메디큐브 화장품, 뷰티 디바이스.
+
+jp: LGイノテックの{代表|だいひょう}はムン・ヒョクス、{主力製品|しゅりょくせいひん}はカメラモジュールと{基板|きばん}{素材|そざい}。
+en: LG Innotek — CEO: Moon Hyuk-soo; main products: camera modules and substrate materials.
+ko: LG이노텍 — 대표이사: 문혁수; 주력 제품: 카메라 모듈, 기판소재.
+
+jp: KTの{代表|だいひょう}はパク・ユニョン、{主力事業|しゅりょくじぎょう}は{通信|つうしん}とクラウドとメディア。
+en: KT — CEO: Park Yoon-young; main business: telecommunications, cloud and media.
+ko: KT — 대표이사: 박윤영; 주력 사업: 통신, 클라우드, 미디어.
+
+jp: {韓国航空宇宙産業|かんこくこうくううちゅうさんぎょう}の{代表|だいひょう}はキム・ジョンチュル、{主力製品|しゅりょくせいひん}はKF-21{戦闘機|せんとうき}とFA-50{軽攻撃機|けいこうげきき}。
+en: Korea Aerospace Industries — CEO: Kim Jong-chul; main products: KF-21 fighters and FA-50 light attack aircraft.
+ko: 한국항공우주산업 — 대표이사: 김종출; 주력 제품: KF-21 전투기, FA-50 경공격기.
+
+jp: ヒョンデ{建設|けんせつ}の{代表|だいひょう}はイ・ハヌ、{主力事業|しゅりょくじぎょう}は{建築|けんちく}と{土木|どぼく}と{原子力|げんしりょく}プラント。
+en: Hyundai E&C — CEO: Lee Han-woo; main business: building, civil engineering and nuclear plants.
+ko: 현대건설 — 대표이사: 이한우; 주력 사업: 건축, 토목, 원전.
+
+jp: ヒョンデロテムの{代表|だいひょう}はイ・ヨンベ、{主力製品|しゅりょくせいひん}はK2{戦車|せんしゃ}と{鉄道|てつどう}{車両|しゃりょう}。
+en: Hyundai Rotem — CEO: Lee Yong-bae; main products: K2 tanks and railway vehicles.
+ko: 현대로템 — 대표이사: 이용배; 주력 제품: K2 전차, 철도차량.
+
+jp: DB{損害保険|そんがいほけん}の{代表|だいひょう}はキム・ジョンナムとチョン・ジョンピョ、{主力事業|しゅりょくじぎょう}は{損害保険|そんがいほけん}。
+en: DB Insurance — CEOs: Kim Jung-nam and Jung Jong-pyo; main business: non-life insurance.
+ko: DB손해보험 — 대표이사: 김정남, 정종표; 주력 사업: 손해보험.
+
+jp: {大韓航空|だいかんこうくう}の{代表|だいひょう}はチョ・ウォンテとウ・ギホン、{主力事業|しゅりょくじぎょう}は{旅客|りょかく}と{貨物|かもつ}の{航空|こうくう}{輸送|ゆそう}。
+en: Korean Air — CEOs: Cho Won-tae and Woo Ki-hong; main business: passenger and cargo air transport.
+ko: 대한항공 — 대표이사: 조원태, 우기홍; 주력 사업: 여객, 화물 항공운송.
+
+jp: ヒョンデオートエバーの{代表|だいひょう}はリュ・ソンムン、{主力製品|しゅりょくせいひん}は{車載|しゃさい}ソフトウェアとITサービス。
+en: Hyundai AutoEver — CEO: Ryu Seok-mun; main products: automotive software and IT services.
+ko: 현대오토에버 — 대표이사: 류석문; 주력 제품: 차량 소프트웨어, IT 서비스.
+
+jp: HDヒョンデマリンソリューションの{代表|だいひょう}はキム・ソンジュン、{主力事業|しゅりょくじぎょう}は{船舶|せんぱく}のアフターサービスと{部品|ぶひん}。
+en: HD Hyundai Marine Solution — CEO: Kim Sung-jun; main business: ship after-sales service and parts.
+ko: HD현대마린솔루션 — 대표이사: 김성준; 주력 사업: 선박 AS, 부품.
+
+jp: {韓国金融持株|かんこくきんゆうもちかぶ}の{代表|だいひょう}はキム・ナムグ、{主力事業|しゅりょくじぎょう}は{証券|しょうけん}と{資産運用|しさんうんよう}。
+en: Korea Investment Holdings — CEO: Kim Nam-goo; main business: securities and asset management.
+ko: 한국금융지주 — 대표이사: 김남구; 주력 사업: 증권, 자산운용.
+
+jp: POSCOインターナショナルの{代表|だいひょう}はイ・ゲイン、{主力事業|しゅりょくじぎょう}は{鉄鋼|てっこう}{貿易|ぼうえき}とLNG。
+en: POSCO International — CEO: Lee Gye-in; main business: steel trading and LNG.
+ko: 포스코인터내셔널 — 대표이사: 이계인; 주력 사업: 철강 무역, LNG.
+
+jp: NH{投資証券|とうししょうけん}の{代表|だいひょう}はシン・ジェウクとペ・グァンス、{主力事業|しゅりょくじぎょう}は{証券|しょうけん}{仲介|ちゅうかい}と{投資銀行|とうしぎんこう}{業務|ぎょうむ}。
+en: NH Investment & Securities — CEOs: Shin Jae-uk and Bae Gwang-soo; main business: brokerage and investment banking.
+ko: NH투자증권 — 대표이사: 신재욱, 배광수; 주력 사업: 증권 중개, IB.
+
+jp: GSの{代表|だいひょう}はホ・テスとホン・スンギ、{主力事業|しゅりょくじぎょう}は{持株|もちかぶ}{会社|がいしゃ}と{石油精製|せきゆせいせい}とエネルギー。
+en: GS Holdings — CEOs: Huh Tae-soo and Hong Sun-ki; main business: holding company, oil refining and energy.
+ko: GS — 대표이사: 허태수, 홍순기; 주력 사업: 지주회사, 정유, 에너지.
+
+jp: カカオバンクの{代表|だいひょう}はユン・ホヨン、{主力事業|しゅりょくじぎょう}はインターネット{銀行|ぎんこう}。
+en: KakaoBank — CEO: Yoon Ho-young; main business: internet banking.
+ko: 카카오뱅크 — 대표이사: 윤호영; 주력 사업: 인터넷 은행.
+
+jp: サムスンE&Aの{代表|だいひょう}はナムグン・ホン、{主力事業|しゅりょくじぎょう}は{化学|かがく}プラントの{設計|せっけい}と{建設|けんせつ}。
+en: Samsung E&A — CEO: Namkoong Hong; main business: engineering and construction of chemical plants.
+ko: 삼성E&A — 대표이사: 남궁홍; 주력 사업: 화공 플랜트 설계·시공.
+
+jp: LSの{代表|だいひょう}はミョン・ノヒョン、{主力事業|しゅりょくじぎょう}は{電線|でんせん}と{電力|でんりょく}{機器|きき}の{持株|もちかぶ}{会社|がいしゃ}。
+en: LS Corp. — CEO: Myung No-hyun; main business: holding company for cables and power equipment.
+ko: LS — 대표이사: 명노현; 주력 사업: 전선·전력기기 지주회사.
+
+jp: クラフトンの{代表|だいひょう}はキム・チャンハン、{主力製品|しゅりょくせいひん}はPUBGとインゾイ。
+en: KRAFTON — CEO: Kim Chang-han; main products: PUBG: BATTLEGROUNDS and inZOI.
+ko: 크래프톤 — 대표이사: 김창한; 주력 제품: 배틀그라운드, 인조이.
+
+jp: サムヤン{食品|しょくひん}の{代表|だいひょう}はキム・ジョンスとキム・ドンチャン、{主力製品|しゅりょくせいひん}はブルダック{炒|いた}め{麺|めん}。
+en: Samyang Foods — CEOs: Kim Jung-soo and Kim Dong-chan; main products: Buldak spicy chicken ramen.
+ko: 삼양식품 — 대표이사: 김정수, 김동찬; 주력 제품: 불닭볶음면.
+
+jp: サムスンエピスホールディングスの{代表|だいひょう}はキム・ギョンア、{主力製品|しゅりょくせいひん}はバイオシミラー。
+en: Samsung Epis Holdings — CEO: Kim Kyung-a; main products: biosimilars (via Samsung Bioepis).
+ko: 삼성에피스홀딩스 — 대표이사: 김경아; 주력 제품: 바이오시밀러(삼성바이오에피스).
+
+jp: イスペタシスの{代表|だいひょう}はチェ・チャンボク、{主力製品|しゅりょくせいひん}は{高多層|こうたそう}プリント{基板|きばん}。
+en: ISU Petasys — CEO: Choi Chang-bok; main products: high-layer-count printed circuit boards.
+ko: 이수페타시스 — 대표이사: 최창복; 주력 제품: 고다층 인쇄회로기판(MLB).
+
+jp: ハンジンカルの{代表|だいひょう}はチョ・ウォンテとリュ・ギョンピョ、{主力事業|しゅりょくじぎょう}は{大韓航空|だいかんこうくう}などを{傘下|さんか}に{持|も}つ{持株|もちかぶ}{会社|がいしゃ}。
+en: Hanjin KAL — CEOs: Cho Won-tae and Ryu Kyung-pyo; main business: holding company of Korean Air.
+ko: 한진칼 — 대표이사: 조원태, 류경표; 주력 사업: 대한항공 지주회사.
+
+jp: ハンファソリューションズの{代表|だいひょう}はパク・スンドク、ナム・ジョンウンとキム・ドングァン、{主力製品|しゅりょくせいひん}は{太陽光|たいようこう}モジュールと{石油化学|せきゆかがく}{製品|せいひん}。
+en: Hanwha Solutions — CEOs: Park Seung-deok, Nam Jung-un and Kim Dong-kwan; main products: solar modules and petrochemicals.
+ko: 한화솔루션 — 대표이사: 박승덕, 남정운, 김동관; 주력 제품: 태양광 모듈, 석유화학.
+
+jp: サムスン{証券|しょうけん}の{代表|だいひょう}はパク・チョンムン、{主力事業|しゅりょくじぎょう}は{資産管理|しさんかんり}と{証券|しょうけん}{仲介|ちゅうかい}。
+en: Samsung Securities — CEO: Park Jong-mun; main business: wealth management and brokerage.
+ko: 삼성증권 — 대표이사: 박종문; 주력 사업: 자산관리, 증권 중개.
+
+jp: アモーレパシフィックの{代表|だいひょう}はソ・ギョンベとキム・スンファン、{主力製品|しゅりょくせいひん}はソルファスやラネージュなどの{化粧品|けしょうひん}。
+en: Amorepacific — CEOs: Suh Kyung-bae and Kim Seung-hwan; main products: cosmetics such as Sulwhasoo and Laneige.
+ko: 아모레퍼시픽 — 대표이사: 서경배, 김승환; 주력 제품: 설화수, 라네즈 등 화장품.
+
+jp: ハンコックタイヤアンドテクノロジーの{代表|だいひょう}はアン・ジョンソンとイ・サンフン、{主力製品|しゅりょくせいひん}は{自動車|じどうしゃ}{用|よう}タイヤ。
+en: Hankook Tire & Technology — CEOs: Ahn Jong-sun and Lee Sang-hoon; main products: automotive tires.
+ko: 한국타이어앤테크놀로지 — 대표이사: 안종선, 이상훈; 주력 제품: 자동차 타이어.
+
+jp: {大宇建設|だいうけんせつ}の{代表|だいひょう}はキム・ボヒョン、{主力事業|しゅりょくじぎょう}は{住宅|じゅうたく}と{土木|どぼく}とプラント。
+en: Daewoo E&C — CEO: Kim Bo-hyun; main business: housing, civil works and plants.
+ko: 대우건설 — 대표이사: 김보현; 주력 사업: 주택, 토목, 플랜트.
+
+jp: コーウェイの{代表|だいひょう}はソ・ジャンウォン、{主力製品|しゅりょくせいひん}は{浄水器|じょうすいき}と{空気清浄機|くうきせいじょうき}のレンタル。
+en: Coway — CEO: Seo Jang-won; main products: water purifier and air purifier rentals.
+ko: 코웨이 — 대표이사: 서장원; 주력 제품: 정수기, 공기청정기 렌탈.
+
+jp: LG CNSの{代表|だいひょう}はヒョン・シンギュン、{主力事業|しゅりょくじぎょう}はITサービスとクラウドとAI。
+en: LG CNS — CEO: Hyun Shin-kyun; main business: IT services, cloud and AI.
+ko: LG씨엔에스 — 대표이사: 현신균; 주력 사업: IT 서비스, 클라우드, AI.
+
+jp: サニル{電機|でんき}の{代表|だいひょう}はパク・トンソクとハン・イクヒ、{主力製品|しゅりょくせいひん}は{特殊|とくしゅ}{変圧器|へんあつき}と{配電|はいでん}{変圧器|へんあつき}。
+en: Sanil Electric — CEOs: Park Dong-seok and Han Ik-hee; main products: special and distribution transformers.
+ko: 산일전기 — 대표이사: 박동석, 한익희; 주력 제품: 특수변압기, 배전변압기.
+
+jp: ハンファの{代表|だいひょう}はキム・ドングァン、リュ・ドゥヒョンとキム・ウソク、{主力事業|しゅりょくじぎょう}は{持株|もちかぶ}{会社|がいしゃ}と{建設|けんせつ}と{化学|かがく}{素材|そざい}。
+en: Hanwha Corporation — CEOs: Kim Dong-kwan, Ryu Du-hyung and Kim Woo-seok; main business: holding company, construction and chemical materials.
+ko: 한화 — 대표이사: 김동관, 류두형, 김우석; 주력 사업: 지주회사, 건설, 화학소재.
+
+jp: キウム{証券|しょうけん}の{代表|だいひょう}はオム・ジュソン、{主力事業|しゅりょくじぎょう}はオンライン{証券|しょうけん}{取引|とりひき}。
+en: Kiwoom Securities — CEO: Um Joo-sung; main business: online brokerage.
+ko: 키움증권 — 대표이사: 엄주성; 주력 사업: 온라인 증권 중개.
+
+jp: ハイブの{代表|だいひょう}はイ・ジェサン、{主力事業|しゅりょくじぎょう}はBTSなどのK-POP{音楽|おんがく}{事業|じぎょう}。
+en: HYBE — CEO: Lee Jae-sang; main business: K-pop music and artist management, including BTS.
+ko: 하이브 — 대표이사: 이재상; 주력 사업: BTS 등 K팝 음악 사업.
+
+jp: ハンミ{薬品|やくひん}の{代表|だいひょう}はファン・サンヨン、{主力製品|しゅりょくせいひん}はアモザルタンなどの{医薬品|いやくひん}。
+en: Hanmi Pharmaceutical — CEO: Hwang Sang-yeon; main products: pharmaceuticals such as Amosartan.
+ko: 한미약품 — 대표이사: 황상연; 주력 제품: 아모잘탄 등 의약품.
+
+jp: LGユープラスの{代表|だいひょう}はホン・ボムシク、{主力事業|しゅりょくじぎょう}は{移動通信|いどうつうしん}とインターネット。
+en: LG Uplus — CEO: Hong Beom-sik; main business: mobile telecommunications and broadband.
+ko: LG유플러스 — 대표이사: 홍범식; 주력 사업: 이동통신, 인터넷.
+
+jp: {大韓電線|だいかんでんせん}の{代表|だいひょう}はソン・ジョンミン、{主力製品|しゅりょくせいひん}は{電力|でんりょく}ケーブル。
+en: Taihan Cable & Solution — CEO: Song Jong-min; main products: power cables.
+ko: 대한전선 — 대표이사: 송종민; 주력 제품: 전력 케이블.
+
+jp: DBハイテックの{代表|だいひょう}はチョ・ギソク、{主力事業|しゅりょくじぎょう}は{半導体|はんどうたい}ファウンドリ。
+en: DB HiTek — CEO: Cho Ki-seok; main business: semiconductor foundry.
+ko: DB하이텍 — 대표이사: 조기석; 주력 사업: 반도체 파운드리.
+
+jp: SKバイオファームの{代表|だいひょう}はイ・ドンフン、{主力製品|しゅりょくせいひん}はてんかん{治療薬|ちりょうやく}セノバメート。
+en: SK biopharm — CEO: Lee Dong-hoon; main products: the epilepsy drug cenobamate.
+ko: SK바이오팜 — 대표이사: 이동훈; 주력 제품: 뇌전증 치료제 세노바메이트.
+
+jp: HDヒョンデ{建設機械|けんせつきかい}の{代表|だいひょう}はムン・ジェヨン、{主力製品|しゅりょくせいひん}は{掘削機|くっさくき}とホイールローダー。
+en: HD Hyundai Construction Equipment — CEO: Moon Jae-young; main products: excavators and wheel loaders.
+ko: HD건설기계 — 대표이사: 문재영; 주력 제품: 굴착기, 휠로더.
+
+jp: ユハン{洋行|ようこう}の{代表|だいひょう}はチョ・ウクチェ、{主力製品|しゅりょくせいひん}は{肺|はい}がん{治療薬|ちりょうやく}レクラザ。
+en: Yuhan Corporation — CEO: Cho Uk-je; main products: the lung cancer drug Leclaza.
+ko: 유한양행 — 대표이사: 조욱제; 주력 제품: 폐암 치료제 렉라자.
+
+jp: カカオペイの{代表|だいひょう}はシン・ウォングン、{主力事業|しゅりょくじぎょう}はモバイル{決済|けっさい}と{送金|そうきん}。
+en: Kakao Pay — CEO: Shin Won-geun; main business: mobile payments and money transfers.
+ko: 카카오페이 — 대표이사: 신원근; 주력 사업: 간편결제, 송금.
+
+jp: JB{金融|きんゆう}グループの{代表|だいひょう}はキム・ギホン、{主力事業|しゅりょくじぎょう}は{地方|ちほう}{銀行|ぎんこう}。
+en: JB Financial Group — CEO: Kim Ki-hong; main business: regional banking.
+ko: JB금융지주 — 대표이사: 김기홍; 주력 사업: 지방은행.
+
+jp: ドゥサンボブキャットの{代表|だいひょう}はスコット・パクとチョ・ドクチェ、{主力製品|しゅりょくせいひん}は{小型|こがた}{建設機械|けんせつきかい}。
+en: Doosan Bobcat — CEOs: Scott Park and Cho Deok-je; main products: compact construction equipment.
+ko: 두산밥캣 — 대표이사: 스캇 박, 조덕제; 주력 제품: 소형 건설장비.
+
+jp: SKCの{代表|だいひょう}はキム・ジョンウ、{主力製品|しゅりょくせいひん}は{銅箔|どうはく}と{半導体|はんどうたい}{用|よう}ガラス{基板|きばん}。
+en: SKC — CEO: Kim Jong-woo; main products: copper foil and glass substrates for semiconductors.
+ko: SKC — 대표이사: 김종우; 주력 제품: 동박, 반도체 글라스 기판.
+
+jp: NCの{代表|だいひょう}はキム・テクチンとパク・ピョンム、{主力製品|しゅりょくせいひん}はリネージュシリーズなどのゲーム。
+en: NC — CEOs: Kim Taek-jin and Park Byeong-mu; main products: games such as the Lineage series.
+ko: NC — 대표이사: 김택진, 박병무; 주력 제품: 리니지 시리즈 등 게임.
+
+jp: BNK{金融|きんゆう}グループの{代表|だいひょう}はピン・デイン、{主力事業|しゅりょくじぎょう}は{地方|ちほう}{銀行|ぎんこう}。
+en: BNK Financial Group — CEO: Bin Dae-in; main business: regional banking.
+ko: BNK금융지주 — 대표이사: 빈대인; 주력 사업: 지방은행.
+
+jp: サムスンカードの{代表|だいひょう}はキム・イテ、{主力事業|しゅりょくじぎょう}はクレジットカード。
+en: Samsung Card — CEO: Kim I-tae; main business: credit cards.
+ko: 삼성카드 — 대표이사: 김이태; 주력 사업: 신용카드.
+
+jp: {韓国電力技術|かんこくでんりょくぎじゅつ}の{代表|だいひょう}はキム・テギュン、{主力事業|しゅりょくじぎょう}は{原子力|げんしりょく}{発電所|はつでんしょ}の{設計|せっけい}。
+en: KEPCO Engineering & Construction — CEO: Kim Tae-kyun; main business: nuclear power plant design.
+ko: 한국전력기술 — 대표이사: 김태균; 주력 사업: 원전 설계.
+
+jp: ドゥサンロボティクスの{代表|だいひょう}はパク・イヌォンとチョ・ギルソン、{主力製品|しゅりょくせいひん}は{協働|きょうどう}ロボット。
+en: Doosan Robotics — CEOs: Park In-won and Cho Gil-sung; main products: collaborative robots.
+ko: 두산로보틱스 — 대표이사: 박인원, 조길성; 주력 제품: 협동로봇.
+
+jp: エルアンドエフの{代表|だいひょう}はホ・ジェホン、{主力製品|しゅりょくせいひん}は{正極材|せいきょくざい}。
+en: L&F — CEO: Huh Je-hong; main products: cathode materials.
+ko: 엘앤에프 — 대표이사: 허제홍; 주력 제품: 양극재.
+
+jp: ハンファ{生命|せいめい}の{代表|だいひょう}はクォン・ヒョグンとイ・ギョングン、{主力事業|しゅりょくじぎょう}は{生命保険|せいめいほけん}。
+en: Hanwha Life — CEOs: Kwon Hyuk-ung and Lee Kyung-geun; main business: life insurance.
+ko: 한화생명 — 대표이사: 권혁웅, 이경근; 주력 사업: 생명보험.
+
+jp: OCIホールディングスの{代表|だいひょう}はイ・ウヒョンとイ・スミ、{主力製品|しゅりょくせいひん}はポリシリコンと{太陽光|たいようこう}{発電|はつでん}。
+en: OCI Holdings — CEOs: Lee Woo-hyun and Lee Soo-mi; main products: polysilicon and solar power.
+ko: OCI홀딩스 — 대표이사: 이우현, 이수미; 주력 제품: 폴리실리콘, 태양광 발전.
+
+jp: LGディスプレイの{代表|だいひょう}はチョン・チョルドン、{主力製品|しゅりょくせいひん}はOLEDパネル。
+en: LG Display — CEO: Jung Chul-dong; main products: OLED panels.
+ko: LG디스플레이 — 대표이사: 정철동; 주력 제품: OLED 패널.
+
+jp: オリオンの{代表|だいひょう}はイ・スンジュン、{主力製品|しゅりょくせいひん}はチョコパイなどの{菓子|かし}。
+en: Orion — CEO: Lee Seung-jun; main products: confectionery such as Choco Pie.
+ko: 오리온 — 대표이사: 이승준; 주력 제품: 초코파이 등 제과.
+
+jp: LG{生活健康|せいかつけんこう}の{代表|だいひょう}はイ・ソンジュ、{主力製品|しゅりょくせいひん}は{化粧品|けしょうひん}と{生活用品|せいかつようひん}と{飲料|いんりょう}。
+en: LG H&H — CEO: Lee Sun-joo; main products: cosmetics, household goods and beverages.
+ko: LG생활건강 — 대표이사: 이선주; 주력 제품: 화장품, 생활용품, 음료.
+
+jp: KCCの{代表|だいひょう}はチョン・モンジンとチョン・ジェフン、{主力製品|しゅりょくせいひん}は{塗料|とりょう}と{建材|けんざい}とシリコーン。
+en: KCC — CEOs: Chung Mong-jin and Jung Jae-hoon; main products: paints, building materials and silicone.
+ko: KCC — 대표이사: 정몽진, 정재훈; 주력 제품: 도료, 건자재, 실리콘.
+
+jp: ハンファエンジンの{代表|だいひょう}はキム・ジョンソ、{主力製品|しゅりょくせいひん}は{船舶|せんぱく}{用|よう}エンジン。
+en: Hanwha Engine — CEO: Kim Jong-seo; main products: marine engines.
+ko: 한화엔진 — 대표이사: 김종서; 주력 제품: 선박용 엔진.
+
+jp: ヒョンデ{海上火災保険|かいじょうかさいほけん}の{代表|だいひょう}はイ・ソクヒョン、{主力事業|しゅりょくじぎょう}は{損害保険|そんがいほけん}。
+en: Hyundai Marine & Fire Insurance — CEO: Lee Seok-hyun; main business: non-life insurance.
+ko: 현대해상화재보험 — 대표이사: 이석현; 주력 사업: 손해보험.
+
+jp: ヒョンデ{製鉄|せいてつ}の{代表|だいひょう}はイ・ボリョン、{主力製品|しゅりょくせいひん}は{自動車|じどうしゃ}{用|よう}{鋼板|こうはん}と{鉄筋|てっきん}。
+en: Hyundai Steel — CEO: Lee Bo-ryong; main products: automotive steel sheets and rebar.
+ko: 현대제철 — 대표이사: 이보룡; 주력 제품: 자동차 강판, 철근.
+
+jp: ハンオンシステムズの{代表|だいひょう}はイ・スイル、{主力製品|しゅりょくせいひん}は{自動車|じどうしゃ}{用|よう}{空調|くうちょう}と{熱|ねつ}マネジメント{部品|ぶひん}。
+en: Hanon Systems — CEO: Lee Soo-il; main products: automotive HVAC and thermal management parts.
+ko: 한온시스템 — 대표이사: 이수일; 주력 제품: 자동차 공조, 열관리 부품.
+
+jp: CJの{代表|だいひょう}はソン・ギョンシクとキム・ホンギ、{主力事業|しゅりょくじぎょう}は{食品|しょくひん}と{物流|ぶつりゅう}とエンタメを{束|たば}ねる{持株|もちかぶ}{会社|がいしゃ}。
+en: CJ Corporation — CEOs: Sohn Kyung-shik and Kim Hong-ki; main business: holding company for food, logistics and entertainment.
+ko: CJ — 대표이사: 손경식, 김홍기; 주력 사업: 식품·물류·엔터 지주회사.
+
+jp: ハンミサイエンスの{代表|だいひょう}はキム・ジェギョ、{主力事業|しゅりょくじぎょう}はハンミ{薬品|やくひん}の{持株|もちかぶ}{会社|がいしゃ}。
+en: Hanmi Science — CEO: Kim Jae-gyo; main business: holding company of Hanmi Pharmaceutical.
+ko: 한미사이언스 — 대표이사: 김재교; 주력 사업: 한미약품 지주회사.
+
+jp: パンオーシャンの{代表|だいひょう}はキム・ホングクとアン・ジュンホ、{主力事業|しゅりょくじぎょう}はばら{積|づ}み{船|せん}による{海運|かいうん}。
+en: Pan Ocean — CEOs: Kim Hong-kuk and Ahn Jung-ho; main business: dry bulk shipping.
+ko: 팬오션 — 대표이사: 김홍국, 안중호; 주력 사업: 벌크선 해운.
+
+jp: {韓国|かんこく}ガス{公社|こうしゃ}の{代表|だいひょう}はホン・ウィラク、{主力事業|しゅりょくじぎょう}は{天然|てんねん}ガスの{輸入|ゆにゅう}と{供給|きょうきゅう}。
+en: KOGAS — CEO: Hong Ui-rak; main business: natural gas import and supply.
+ko: 한국가스공사 — 대표이사: 홍의락; 주력 사업: 천연가스 도입, 공급.
+
+jp: {韓国|かんこく}コルマーの{代表|だいひょう}はチェ・ヒョンギュ、{主力事業|しゅりょくじぎょう}は{化粧品|けしょうひん}の{受託|じゅたく}{開発|かいはつ}{製造|せいぞう}。
+en: Kolmar Korea — CEO: Choi Hyun-kyu; main business: cosmetics ODM.
+ko: 한국콜마 — 대표이사: 최현규; 주력 사업: 화장품 ODM.
+
+jp: エスワンの{代表|だいひょう}はチョン・ヘリンとハナオカ・タクロウ、{主力事業|しゅりょくじぎょう}はセキュリティシステムと{警備|けいび}。
+en: S-1 — CEOs: Jung Hae-rin and Takuro Hanaoka; main business: security systems and guard services.
+ko: 에스원 — 대표이사: 정해린, 하나오카 타쿠로; 주력 사업: 보안 시스템, 경비.
+
+jp: POSCO DXの{代表|だいひょう}はシム・ミンソク、{主力事業|しゅりょくじぎょう}は{産業|さんぎょう}{自動化|じどうか}とITサービス。
+en: POSCO DX — CEO: Shim Min-seok; main business: industrial automation and IT services.
+ko: 포스코DX — 대표이사: 심민석; 주력 사업: 산업 자동화, IT 서비스.
+
+jp: {新世界|しんせかい}の{代表|だいひょう}はパク・チュヒョン、{主力事業|しゅりょくじぎょう}は{百貨店|ひゃっかてん}と{免税店|めんぜいてん}。
+en: Shinsegae — CEO: Park Joo-hyung; main business: department stores and duty-free shops.
+ko: 신세계 — 대표이사: 박주형; 주력 사업: 백화점, 면세점.
+
+jp: コスマックスの{代表|だいひょう}はチェ・ギョンとイ・ビョンマン、{主力事業|しゅりょくじぎょう}は{化粧品|けしょうひん}の{受託|じゅたく}{開発|かいはつ}{製造|せいぞう}。
+en: Cosmax — CEOs: Choi Kyung and Lee Byeong-man; main business: cosmetics ODM.
+ko: 코스맥스 — 대표이사: 최경, 이병만; 주력 사업: 화장품 ODM.
+
+jp: カンウォンランドの{代表|だいひょう}はキム・ドギュン、{主力事業|しゅりょくじぎょう}はカジノとリゾート。
+en: Kangwon Land — CEO: Kim Do-kyun; main business: casino and resort.
+ko: 강원랜드 — 대표이사: 김도균; 주력 사업: 카지노, 리조트.
+
+jp: ハンソルケミカルの{代表|だいひょう}はハン・ジャンアン、{主力製品|しゅりょくせいひん}は{過酸化水素|かさんかすいそ}と{半導体|はんどうたい}{用|よう}{前駆体|ぜんくたい}。
+en: Hansol Chemical — CEO: Han Jang-an; main products: hydrogen peroxide and semiconductor precursors.
+ko: 한솔케미칼 — 대표이사: 한장안; 주력 제품: 과산화수소, 반도체 프리커서.
+
+jp: ヨンウォン{貿易|ぼうえき}の{代表|だいひょう}はソン・ギハク、{主力事業|しゅりょくじぎょう}はアウトドアウェアの{受託|じゅたく}{生産|せいさん}。
+en: Youngone Corporation — CEO: Sung Ki-hak; main business: outdoor apparel OEM.
+ko: 영원무역 — 대표이사: 성기학; 주력 사업: 아웃도어 의류 OEM.
+
+jp: iM{金融|きんゆう}グループの{代表|だいひょう}はファン・ビョンウ、{主力事業|しゅりょくじぎょう}はiMバンクの{銀行|ぎんこう}{業務|ぎょうむ}。
+en: iM Financial Group — CEO: Hwang Byeong-woo; main business: banking through iM Bank.
+ko: iM금융지주 — 대표이사: 황병우; 주력 사업: 은행(iM뱅크).
+
+jp: DNオートモーティブの{代表|だいひょう}はキム・サンホンとキム・インファン、{主力製品|しゅりょくせいひん}は{防振|ぼうしん}ゴム{部品|ぶひん}と{工作機械|こうさくきかい}。
+en: DN Automotive — CEOs: Kim Sang-heon and Kim In-hwan; main products: anti-vibration parts and machine tools.
+ko: DN오토모티브 — 대표이사: 김상헌, 김인환; 주력 제품: 방진부품, 공작기계.
+
+jp: クムホ{石油化学|せきゆかがく}の{代表|だいひょう}はペク・チョンフン、{主力製品|しゅりょくせいひん}は{合成|ごうせい}ゴムと{合成樹脂|ごうせいじゅし}。
+en: Kumho Petrochemical — CEO: Baek Jong-hoon; main products: synthetic rubber and synthetic resins.
+ko: 금호석유화학 — 대표이사: 백종훈; 주력 제품: 합성고무, 합성수지.
+
+jp: ネットマーブルの{代表|だいひょう}はキム・ビョンギュ、{主力製品|しゅりょくせいひん}はモバイルゲーム。
+en: Netmarble — CEO: Kim Byeong-kyu; main products: mobile games.
+ko: 넷마블 — 대표이사: 김병규; 주력 제품: 모바일 게임.
+
+jp: DL E&Cの{代表|だいひょう}はパク・サンシン、{主力事業|しゅりょくじぎょう}は{住宅|じゅうたく}とプラント。
+en: DL E&C — CEO: Park Sang-shin; main business: housing and plants.
+ko: DL이앤씨 — 대표이사: 박상신; 주력 사업: 주택, 플랜트.
+
+jp: ロッテショッピングの{代表|だいひょう}はシン・ドンビン、チョン・ヒョンソク、チャ・ウチョルとイム・ジェチョル、{主力事業|しゅりょくじぎょう}は{百貨店|ひゃっかてん}と{大型|おおがた}スーパー。
+en: Lotte Shopping — CEOs: Shin Dong-bin, Jung Hyun-seok, Cha Woo-chul and Lim Jae-chul; main business: department stores and hypermarkets.
+ko: 롯데쇼핑 — 대표이사: 신동빈, 정현석, 차우철, 임재철; 주력 사업: 백화점, 마트.
+
+jp: SKバイオサイエンスの{代表|だいひょう}はアン・ジェヨン、{主力製品|しゅりょくせいひん}はワクチン。
+en: SK bioscience — CEO: Ahn Jae-yong; main products: vaccines.
+ko: SK바이오사이언스 — 대표이사: 안재용; 주력 제품: 백신.
+
+jp: ヒョンデエレベーターの{代表|だいひょう}はチョ・ジェチョン、{主力製品|しゅりょくせいひん}はエレベーターとエスカレーター。
+en: Hyundai Elevator — CEO: Cho Jae-cheon; main products: elevators and escalators.
+ko: 현대엘리베이터 — 대표이사: 조재천; 주력 제품: 엘리베이터, 에스컬레이터.
+
+jp: トンソの{代表|だいひょう}はユン・セチョルとキム・ジョンヒ、{主力製品|しゅりょくせいひん}はマキシムなどのコーヒー{製品|せいひん}。
+en: Dongsuh — CEOs: Yoon Se-chul and Kim Jong-hee; main products: coffee products such as Maxim.
+ko: 동서 — 대표이사: 윤세철, 김종희; 주력 제품: 맥심 등 커피.
+
+jp: エコプロマテリアルズの{代表|だいひょう}はイ・ギュボン、{主力製品|しゅりょくせいひん}は{正極材|せいきょくざい}の{前駆体|ぜんくたい}。
+en: EcoPro Materials — CEO: Lee Kyu-bong; main products: cathode precursors.
+ko: 에코프로머티리얼즈 — 대표이사: 이규봉; 주력 제품: 양극재 전구체.
+
+jp: CJ{第一製糖|だいいちせいとう}の{代表|だいひょう}はソン・ギョンシクとユン・ソクファン、{主力製品|しゅりょくせいひん}はビビゴなどの{食品|しょくひん}とバイオ{素材|そざい}。
+en: CJ CheilJedang — CEOs: Sohn Kyung-shik and Yoon Seok-hwan; main products: food such as bibigo, and bio materials.
+ko: CJ제일제당 — 대표이사: 손경식, 윤석환; 주력 제품: 비비고 등 식품, 바이오.
+
+jp: F&Fの{代表|だいひょう}はキム・チャンス、{主力製品|しゅりょくせいひん}はMLBとディスカバリーの{衣料|いりょう}。
+en: F&F — CEO: Kim Chang-soo; main products: MLB and Discovery Expedition apparel.
+ko: F&F — 대표이사: 김창수; 주력 제품: MLB, 디스커버리 의류.
+
+jp: ロッテケミカルの{代表|だいひょう}はシン・ドンビン、イ・ヨンジュンとチュ・ウヒョン、{主力製品|しゅりょくせいひん}は{石油化学|せきゆかがく}{製品|せいひん}。
+en: Lotte Chemical — CEOs: Shin Dong-bin, Lee Young-jun and Joo Woo-hyun; main products: petrochemicals.
+ko: 롯데케미칼 — 대표이사: 신동빈, 이영준, 주우현; 주력 제품: 석유화학 제품.
+
+jp: イススペシャリティケミカルの{代表|だいひょう}はリュ・スンホ、{主力製品|しゅりょくせいひん}は{合成|ごうせい}ゴム{用|よう}{添加剤|てんかざい}と{固体電解質|こたいでんかいしつ}。
+en: ISU Specialty Chemical — CEO: Ryu Seung-ho; main products: synthetic rubber additives and solid electrolytes.
+ko: 이수스페셜티케미컬 — 대표이사: 류승호; 주력 제품: 합성고무 첨가제, 고체전해질.
+
+jp: {農心|のうしん}の{代表|だいひょう}はチョ・ヨンチョル、{主力製品|しゅりょくせいひん}は{辛|しん}ラーメンなどの{即席麺|そくせきめん}。
+en: Nongshim — CEO: Cho Yong-chul; main products: instant noodles such as Shin Ramyun.
+ko: 농심 — 대표이사: 조용철; 주력 제품: 신라면 등 라면.
+
+jp: エスエルの{代表|だいひょう}はイ・ソンヨプとチョン・ムンホ、{主力製品|しゅりょくせいひん}は{自動車|じどうしゃ}{用|よう}ランプ。
+en: SL Corporation — CEOs: Lee Sung-yeop and Jung Mun-ho; main products: automotive lamps.
+ko: 에스엘 — 대표이사: 이성엽, 정문호; 주력 제품: 자동차 램프.
+
+jp: ハノルバイオファーマの{代表|だいひょう}はパク・スジンとパク・スングク、{主力製品|しゅりょくせいひん}は{自己免疫疾患|じこめんえきしっかん}{治療薬|ちりょうやく}。
+en: HanAll Biopharma — CEOs: Park Soo-jin and Park Seung-guk; main products: autoimmune disease treatments.
+ko: 한올바이오파마 — 대표이사: 박수진, 박승국; 주력 제품: 자가면역질환 치료제.
+
+jp: ハンコックアンドカンパニーの{代表|だいひょう}はパク・チョンホとキム・ジュンヒョン、{主力事業|しゅりょくじぎょう}は{持株|もちかぶ}{会社|がいしゃ}と{蓄電池|ちくでんち}。
+en: Hankook & Company — CEOs: Park Jong-ho and Kim Jun-hyun; main business: holding company and storage batteries.
+ko: 한국앤컴퍼니 — 대표이사: 박종호, 김준현; 주력 사업: 지주회사, 축전지.
+
+jp: ロッテ{持株|もちかぶ}の{代表|だいひょう}はシン・ドンビン、コ・ジョンウクとノ・ジュンヒョン、{主力事業|しゅりょくじぎょう}はロッテグループの{持株|もちかぶ}{会社|がいしゃ}。
+en: Lotte Corporation — CEOs: Shin Dong-bin, Ko Jung-uk and Noh Jun-hyung; main business: holding company of Lotte Group.
+ko: 롯데지주 — 대표이사: 신동빈, 고정욱, 노준형; 주력 사업: 롯데그룹 지주회사.
+
+jp: シーエスウィンドの{代表|だいひょう}はパン・ソンフン、{主力製品|しゅりょくせいひん}は{風力|ふうりょく}{発電|はつでん}タワー。
+en: CS Wind — CEO: Bang Sung-hoon; main products: wind turbine towers.
+ko: 씨에스윈드 — 대표이사: 방성훈; 주력 제품: 풍력타워.
+
+jp: ダルバグローバルの{代表|だいひょう}はパン・ソンヨン、{主力製品|しゅりょくせいひん}はダルバのミストセラムなどの{化粧品|けしょうひん}。
+en: d'Alba Global — CEO: Ban Sung-yeon; main products: cosmetics such as the d'Alba mist serum.
+ko: 달바글로벌 — 대표이사: 반성연; 주력 제품: 달바 미스트 세럼 등 화장품.
+
+jp: プンサンの{代表|だいひょう}はリュ・ジンとパク・ウドン、{主力製品|しゅりょくせいひん}は{銅|どう}{加工|かこう}{製品|せいひん}と{弾薬|だんやく}。
+en: Poongsan — CEOs: Ryu Jin and Park Woo-dong; main products: copper products and ammunition.
+ko: 풍산 — 대표이사: 류진, 박우동; 주력 제품: 신동 제품, 탄약.
+
+jp: HLマンドの{代表|だいひょう}はチョ・ソンヒョン、{主力製品|しゅりょくせいひん}はブレーキとステアリング。
+en: HL Mando — CEO: Cho Sung-hyun; main products: brakes and steering systems.
+ko: HL만도 — 대표이사: 조성현; 주력 제품: 제동장치, 조향장치.
+
+jp: BGFリテールの{代表|だいひょう}はミン・スンベ、{主力事業|しゅりょくじぎょう}はコンビニのCU。
+en: BGF Retail — CEO: Min Seung-bae; main business: CU convenience stores.
+ko: BGF리테일 — 대표이사: 민승배; 주력 사업: 편의점 CU.
+
+jp: チェイル{企画|きかく}の{代表|だいひょう}はキム・ジョンヒョン、{主力事業|しゅりょくじぎょう}は{広告|こうこく}とマーケティング。
+en: Cheil Worldwide — CEO: Kim Jong-hyun; main business: advertising and marketing.
+ko: 제일기획 — 대표이사: 김종현; 주력 사업: 광고, 마케팅.
+
+jp: ヨンウォン{貿易|ぼうえき}ホールディングスの{代表|だいひょう}はソン・レウン、{主力事業|しゅりょくじぎょう}はアウトドア{衣料|いりょう}{事業|じぎょう}の{持株|もちかぶ}{会社|がいしゃ}。
+en: Youngone Holdings — CEO: Sung Rae-eun; main business: holding company for outdoor apparel.
+ko: 영원무역홀딩스 — 대표이사: 성래은; 주력 사업: 아웃도어 의류 지주회사.
+
+jp: ミストホールディングスの{代表|だいひょう}はユン・グンチャン、{主力製品|しゅりょくせいひん}はタイトリストのゴルフ{用品|ようひん}とフィラ。
+en: Misto Holdings — CEO: Yoon Geun-chang; main products: Titleist golf equipment and FILA.
+ko: 미스토홀딩스 — 대표이사: 윤근창; 주력 제품: 타이틀리스트 골프용품, 휠라.
+
+jp: KEPCO KPSの{代表|だいひょう}はキム・ホンヨン、{主力事業|しゅりょくじぎょう}は{発電|はつでん}{設備|せつび}の{保守|ほしゅ}。
+en: KEPCO KPS — CEO: Kim Hong-yeon; main business: power plant maintenance.
+ko: 한전KPS — 대표이사: 김홍연; 주력 사업: 발전설비 정비.
+
+jp: イーマートの{代表|だいひょう}はハン・チェヤン、{主力事業|しゅりょくじぎょう}は{大型|おおがた}スーパー。
+en: E-MART — CEO: Han Chae-yang; main business: hypermarkets.
+ko: 이마트 — 대표이사: 한채양; 주력 사업: 대형마트.
+
+jp: クムホタイヤの{代表|だいひょう}はチョン・イルテク、{主力製品|しゅりょくせいひん}は{自動車|じどうしゃ}{用|よう}タイヤ。
+en: Kumho Tire — CEO: Jung Il-taek; main products: automotive tires.
+ko: 금호타이어 — 대표이사: 정일택; 주력 제품: 자동차 타이어.
+
+jp: アモーレパシフィックホールディングスの{代表|だいひょう}はソ・ギョンベとイ・サンモク、{主力事業|しゅりょくじぎょう}はアモーレパシフィックの{持株|もちかぶ}{会社|がいしゃ}。
+en: Amorepacific Holdings — CEOs: Suh Kyung-bae and Lee Sang-mok; main business: holding company of Amorepacific.
+ko: 아모레퍼시픽홀딩스 — 대표이사: 서경배, 이상목; 주력 사업: 아모레퍼시픽 지주회사.
+
+jp: ヒョンデ{百貨店|ひゃっかてん}の{代表|だいひょう}はチョン・ジソンとチョン・ジヨン、{主力事業|しゅりょくじぎょう}は{百貨店|ひゃっかてん}と{免税店|めんぜいてん}。
+en: Hyundai Department Store — CEOs: Chung Ji-sun and Chung Ji-young; main business: department stores and duty-free shops.
+ko: 현대백화점 — 대표이사: 정지선, 정지영; 주력 사업: 백화점, 면세점.
+
+jp: GSリテールの{代表|だいひょう}はホ・ソホン、{主力事業|しゅりょくじぎょう}はコンビニのGS25。
+en: GS Retail — CEO: Huh Seo-hong; main business: GS25 convenience stores.
+ko: GS리테일 — 대표이사: 허서홍; 주력 사업: 편의점 GS25.
+
+jp: フソンの{代表|だいひょう}はキム・ヨンミン、{主力製品|しゅりょくせいひん}は{電解質|でんかいしつ}{用|よう}LiPF6と{冷媒|れいばい}ガス。
+en: Foosung — CEO: Kim Yong-min; main products: LiPF6 electrolyte salt and refrigerant gases.
+ko: 후성 — 대표이사: 김용민; 주력 제품: 육불화인산리튬(LiPF6), 냉매가스.
+
+jp: コーロンインダストリーの{代表|だいひょう}はホ・ソンとキム・ミンテ、{主力製品|しゅりょくせいひん}はアラミド{繊維|せんい}とタイヤコード。
+en: Kolon Industries — CEOs: Huh Sung and Kim Min-tae; main products: aramid fiber and tire cord.
+ko: 코오롱인더스트리 — 대표이사: 허성, 김민태; 주력 제품: 아라미드, 타이어코드.
+
+jp: セアベスチール{持株|もちかぶ}の{代表|だいひょう}はイ・テソンとキム・スホ、{主力製品|しゅりょくせいひん}は{特殊鋼|とくしゅこう}。
+en: SeAH Besteel Holdings — CEOs: Lee Tae-sung and Kim Soo-ho; main products: special steel.
+ko: 세아베스틸지주 — 대표이사: 이태성, 김수호; 주력 제품: 특수강.
+
+jp: HDヒョンデマリンエンジンの{代表|だいひょう}はユ・ジョンデ、{主力製品|しゅりょくせいひん}は{船舶|せんぱく}{用|よう}エンジン。
+en: HD Hyundai Marine Engine — CEO: Yoo Jung-dae; main products: marine engines.
+ko: HD현대마린엔진 — 대표이사: 유정대; 주력 제품: 선박용 엔진.
+
+jp: CJ{大韓通運|だいかんつううん}の{代表|だいひょう}はシン・ヨンスとミン・ヨンハク、{主力事業|しゅりょくじぎょう}は{宅配|たくはい}と{物流|ぶつりゅう}。
+en: CJ Logistics — CEOs: Shin Young-soo and Min Young-hak; main business: parcel delivery and logistics.
+ko: CJ대한통운 — 대표이사: 신영수, 민영학; 주력 사업: 택배, 물류.
+
+jp: トンウォン{産業|さんぎょう}の{代表|だいひょう}はキム・セフン、パク・サンジンとチャン・インソン、{主力製品|しゅりょくせいひん}はマグロ{漁業|ぎょぎょう}とツナ{缶|かん}。
+en: Dongwon Industries — CEOs: Kim Se-hoon, Park Sang-jin and Jang In-sung; main products: tuna fishing and canned tuna.
+ko: 동원산업 — 대표이사: 김세훈, 박상진, 장인성; 주력 제품: 참치 어업, 참치캔.
+
+jp: ホテル{新羅|しんら}の{代表|だいひょう}はイ・ブジン、{主力事業|しゅりょくじぎょう}は{免税店|めんぜいてん}とホテル。
+en: Hotel Shilla — CEO: Lee Boo-jin; main business: duty-free shops and hotels.
+ko: 호텔신라 — 대표이사: 이부진; 주력 사업: 면세점, 호텔.
+
+jp: GC{緑十字|りょくじゅうじ}の{代表|だいひょう}はホ・ウンチョル、{主力製品|しゅりょくせいひん}は{血液製剤|けつえきせいざい}とワクチン。
+en: GC Biopharma — CEO: Huh Eun-chul; main products: plasma-derived products and vaccines.
+ko: GC녹십자 — 대표이사: 허은철; 주력 제품: 혈액제제, 백신.
+
+jp: SKアイイーテクノロジーの{代表|だいひょう}はイ・サンミン、{主力製品|しゅりょくせいひん}は{二次電池|にじでんち}{用|よう}セパレーター。
+en: SK IE Technology — CEO: Lee Sang-min; main products: battery separators.
+ko: SK아이이테크놀로지 — 대표이사: 이상민; 주력 제품: 이차전지 분리막.
+
+jp: ヒョンデウィアの{代表|だいひょう}はクォン・オソン、{主力製品|しゅりょくせいひん}は{自動車|じどうしゃ}{部品|ぶひん}と{防衛|ぼうえい}{製品|せいひん}。
+en: Hyundai WIA — CEO: Kwon O-sung; main products: auto parts and defense products.
+ko: 현대위아 — 대표이사: 권오성; 주력 제품: 자동차 부품, 방산.
+
+jp: オリオンホールディングスの{代表|だいひょう}はホ・インチョル、{主力事業|しゅりょくじぎょう}はオリオンの{持株|もちかぶ}{会社|がいしゃ}。
+en: Orion Holdings — CEO: Huh In-chul; main business: holding company of Orion.
+ko: 오리온홀딩스 — 대표이사: 허인철; 주력 사업: 오리온 지주회사.
+
+jp: オットギの{代表|だいひょう}はハム・ヨンジュンとファン・ソンマン、{主力製品|しゅりょくせいひん}はカレーやラーメンなどの{食品|しょくひん}。
+en: Ottogi — CEOs: Ham Young-jun and Hwang Sung-man; main products: foods such as curry and ramen.
+ko: 오뚜기 — 대표이사: 함영준, 황성만; 주력 제품: 카레, 라면 등 식품.
+
+jp: テウン{製薬|せいやく}の{代表|だいひょう}はイ・チャンジェとパク・ソンス、{主力製品|しゅりょくせいひん}はボツリヌストキシン{製剤|せいざい}のナボタと{医薬品|いやくひん}。
+en: Daewoong Pharmaceutical — CEOs: Lee Chang-jae and Park Sung-soo; main products: the botulinum toxin Nabota and other drugs.
+ko: 대웅제약 — 대표이사: 이창재, 박성수; 주력 제품: 나보타 등 의약품.
+
+jp: ダブルユーゲームズの{代表|だいひょう}はキム・ガラム、{主力製品|しゅりょくせいひん}はソーシャルカジノゲーム。
+en: DoubleU Games — CEO: Kim Ga-ram; main products: social casino games.
+ko: 더블유게임즈 — 대표이사: 김가람; 주력 제품: 소셜 카지노 게임.
+
+jp: ヒョソンTNCの{代表|だいひょう}はイ・チャンファンとユ・ヨンファン、{主力製品|しゅりょくせいひん}はスパンデックスのクレオラ。
+en: Hyosung TNC — CEOs: Lee Chang-hwang and Yoo Young-hwan; main products: creora spandex.
+ko: 효성티앤씨 — 대표이사: 이창황, 유영환; 주력 제품: 스판덱스(크레오라).
+
+jp: ハンイルセメントの{代表|だいひょう}はチョン・グンシクとオ・ヘグン、{主力製品|しゅりょくせいひん}はセメントとモルタル。
+en: Hanil Cement — CEOs: Jeon Geun-sik and Oh Hae-geun; main products: cement and ready-mixed mortar.
+ko: 한일시멘트 — 대표이사: 전근식, 오해근; 주력 제품: 시멘트, 레미탈.
+
+jp: ロッテ{精密化学|せいみつかがく}の{代表|だいひょう}はチョン・スンウォン、{主力製品|しゅりょくせいひん}はアンモニア{系|けい}{化学|かがく}{製品|せいひん}とセルロース{誘導体|ゆうどうたい}。
+en: Lotte Fine Chemical — CEO: Jung Seung-won; main products: ammonia-based chemicals and cellulose derivatives.
+ko: 롯데정밀화학 — 대표이사: 정승원; 주력 제품: 암모니아계 화학제품, 셀룰로스 유도체.
+
+jp: ロッテウェルフードの{代表|だいひょう}はシン・ドンビンとソ・ジョンホ、{主力製品|しゅりょくせいひん}は{菓子|かし}とアイスクリーム。
+en: LOTTE WELLFOOD — CEOs: Shin Dong-bin and Seo Jung-ho; main products: confectionery and ice cream.
+ko: 롯데웰푸드 — 대표이사: 신동빈, 서정호; 주력 제품: 제과, 빙과.
+
+jp: {韓国|かんこく}カーボンの{代表|だいひょう}はチョ・ムンスとチョ・ヨンホ、{主力製品|しゅりょくせいひん}はLNG{運搬船|うんぱんせん}{用|よう}{断熱材|だんねつざい}。
+en: Hankuk Carbon — CEOs: Cho Mun-soo and Cho Yeon-ho; main products: insulation panels for LNG carriers.
+ko: 한국카본 — 대표이사: 조문수, 조연호; 주력 제품: LNG운반선 보냉재.
+
+jp: ハイトジンロの{代表|だいひょう}はチャン・インソプ、{主力製品|しゅりょくせいひん}は{焼酎|しょうちゅう}とビール。
+en: HiteJinro — CEO: Jang In-seop; main products: soju and beer.
+ko: 하이트진로 — 대표이사: 장인섭; 주력 제품: 소주, 맥주.
+
+jp: DLの{代表|だいひょう}はキム・ジョンヒョン、{主力事業|しゅりょくじぎょう}は{石油化学|せきゆかがく}などの{持株|もちかぶ}{会社|がいしゃ}。
+en: DL Holdings — CEO: Kim Jong-hyun; main business: holding company for petrochemicals and energy.
+ko: DL — 대표이사: 김종현; 주력 사업: 석유화학 등 지주회사.
+
+jp: テグァン{産業|さんぎょう}の{代表|だいひょう}はイ・ブウィとチョン・インチョル、{主力製品|しゅりょくせいひん}は{石油化学|せきゆかがく}{製品|せいひん}と{化学繊維|かがくせんい}。
+en: Taekwang Industrial — CEOs: Lee Bu-ui and Jung In-chul; main products: petrochemicals and synthetic fibers.
+ko: 태광산업 — 대표이사: 이부의, 정인철; 주력 제품: 석유화학, 화섬.
+
+jp: ハンセムの{代表|だいひょう}はキム・ユジン、{主力製品|しゅりょくせいひん}は{家具|かぐ}とシステムキッチン。
+en: Hanssem — CEO: Kim Yu-jin; main products: furniture and kitchen systems.
+ko: 한샘 — 대표이사: 김유진; 주력 제품: 가구, 부엌가구.
+
+jp: {韓国地域暖房公社|かんこくちいきだんぼうこうしゃ}の{代表|だいひょう}はハ・ドングン、{主力事業|しゅりょくじぎょう}は{地域|ちいき}{暖房|だんぼう}と{電力|でんりょく}。
+en: Korea District Heating Corp. — CEO: Ha Dong-geun; main business: district heating and electricity.
+ko: 한국지역난방공사 — 대표이사: 하동근; 주력 사업: 지역난방, 전력.
+
+jp: チョングンダンの{代表|だいひょう}はキム・ヨンジュ、{主力製品|しゅりょくせいひん}は{医薬品|いやくひん}。
+en: Chong Kun Dang — CEO: Kim Young-joo; main products: pharmaceuticals.
+ko: 종근당 — 대표이사: 김영주; 주력 제품: 의약품.
+
+jp: SKケミカルの{代表|だいひょう}はアン・ジェヒョン、{主力製品|しゅりょくせいひん}はコポリエステルと{医薬品|いやくひん}。
+en: SK chemicals — CEO: Ahn Jae-hyun; main products: copolyester and pharmaceuticals.
+ko: SK케미칼 — 대표이사: 안재현; 주력 제품: 코폴리에스터, 의약품.
+
+jp: テウンの{代表|だいひょう}はユン・ジェチュン、{主力事業|しゅりょくじぎょう}はテウン{製薬|せいやく}の{持株|もちかぶ}{会社|がいしゃ}。
+en: Daewoong — CEO: Yoon Jae-chun; main business: holding company of Daewoong Pharmaceutical.
+ko: 대웅 — 대표이사: 윤재춘; 주력 사업: 대웅제약 지주회사.
+
+jp: ロッテ{七星飲料|しちせいいんりょう}の{代表|だいひょう}はパク・ユンギ、{主力製品|しゅりょくせいひん}はチルソンサイダーなどの{飲料|いんりょう}と{焼酎|しょうちゅう}。
+en: Lotte Chilsung Beverage — CEO: Park Yoon-ki; main products: beverages such as Chilsung Cider, and soju.
+ko: 롯데칠성음료 — 대표이사: 박윤기; 주력 제품: 칠성사이다 등 음료, 소주.
+
+jp: パラダイスの{代表|だいひょう}はチェ・ジョンファンとイム・ジュンシン、{主力事業|しゅりょくじぎょう}は{外国人|がいこくじん}{専用|せんよう}カジノとホテル。
+en: Paradise — CEOs: Choi Jong-hwan and Lim Jun-shin; main business: foreigner-only casinos and hotels.
+ko: 파라다이스 — 대표이사: 최종환, 임준신; 주력 사업: 외국인 전용 카지노, 호텔.
+
+jp: SDバイオセンサーの{代表|だいひょう}はイ・ヒョグン、{主力製品|しゅりょくせいひん}は{体外診断|たいがいしんだん}{製品|せいひん}。
+en: SD Biosensor — CEO: Lee Hyo-geun; main products: in-vitro diagnostic products.
+ko: 에스디바이오센서 — 대표이사: 이효근; 주력 제품: 체외진단 제품.
+
+jp: ヨンプンの{代表|だいひょう}はキム・ギホ、{主力製品|しゅりょくせいひん}は{亜鉛|あえん}。
+en: Young Poong — CEO: Kim Ki-ho; main products: zinc.
+ko: 영풍 — 대표이사: 김기호; 주력 제품: 아연.
+
+jp: HSヒョソン{先端素材|せんたんそざい}の{代表|だいひょう}はイム・ジンダルとソン・ナギャン、{主力製品|しゅりょくせいひん}はタイヤコードと{炭素繊維|たんそせんい}。
+en: HS Hyosung Advanced Materials — CEOs: Lim Jin-dal and Sung Nak-yang; main products: tire cord and carbon fiber.
+ko: HS효성첨단소재 — 대표이사: 임진달, 성낙양; 주력 제품: 타이어코드, 탄소섬유.
+
+jp: OCIの{代表|だいひょう}はキム・ユシン、{主力製品|しゅりょくせいひん}はカーボンブラックなどの{化学|かがく}{製品|せいひん}。
+en: OCI — CEO: Kim Yu-shin; main products: carbon black and other chemicals.
+ko: OCI — 대표이사: 김유신; 주력 제품: 카본블랙 등 화학제품.
+
+jp: TKGヒューケムスの{代表|だいひょう}はキム・ウチャン、{主力製品|しゅりょくせいひん}は{硝酸|しょうさん}などの{基礎|きそ}{化学|かがく}{製品|せいひん}。
+en: TKG Huchems — CEO: Kim Woo-chan; main products: nitric acid and other basic chemicals.
+ko: TKG휴켐스 — 대표이사: 김우찬; 주력 제품: 질산 등 정밀화학 제품.
+
+jp: ミウォンSCの{代表|だいひょう}はペ・ウォンとキム・テジュン、{主力製品|しゅりょくせいひん}はUV{硬化|こうか}{樹脂|じゅし}{用|よう}モノマー。
+en: Miwon Specialty Chemical — CEOs: Bae Won and Kim Tae-jun; main products: UV-curable resin monomers.
+ko: 미원에스씨 — 대표이사: 배원, 김태준; 주력 제품: 광경화 수지 모노머.
+
+jp: トンウォンシステムズの{代表|だいひょう}はチョ・ジョムグン、チョン・ヨンウク、シン・ドンマンとユン・ソンノ、{主力製品|しゅりょくせいひん}は{包装材|ほうそうざい}と{缶|かん}。
+en: Dongwon Systems — CEOs: Cho Jeom-geun, Jung Yong-uk, Shin Dong-man and Yoon Sung-no; main products: packaging materials and cans.
+ko: 동원시스템즈 — 대표이사: 조점근, 정용욱, 신동만, 윤성노; 주력 제품: 포장재, 캔.
+
+jp: テサンの{代表|だいひょう}はイム・ジョンベ、{主力製品|しゅりょくせいひん}は{調味料|ちょうみりょう}とキムチ。
+en: Daesang — CEO: Lim Jung-bae; main products: seasonings and kimchi.
+ko: 대상 — 대표이사: 임정배; 주력 제품: 조미료, 김치.
+
+jp: ミウォン{商事|しょうじ}の{代表|だいひょう}はホン・チャンシクとカン・シヌ、{主力製品|しゅりょくせいひん}は{界面活性剤|かいめんかっせいざい}などの{化学|かがく}{製品|せいひん}。
+en: Miwon Commercial — CEOs: Hong Chang-sik and Kang Shin-woo; main products: surfactants and other chemicals.
+ko: 미원상사 — 대표이사: 홍창식, 강신우; 주력 제품: 계면활성제 등 화학제품.
+
+jp: {大韓油化|だいかんゆか}の{代表|だいひょう}はカン・ギルスン、{主力製品|しゅりょくせいひん}はポリエチレンとポリプロピレン。
+en: Korea Petrochemical Ind. — CEO: Kang Gil-sun; main products: polyethylene and polypropylene.
+ko: 대한유화 — 대표이사: 강길순; 주력 제품: 폴리에틸렌, 폴리프로필렌.
+
+jp: ハンファマシナリーアンドサービスホールディングスの{代表|だいひょう}はキム・ヒョンジョ、{主力事業|しゅりょくじぎょう}は{半導体|はんどうたい}{装置|そうち}やロボットや{流通|りゅうつう}の{持株|もちかぶ}{会社|がいしゃ}。
+en: Hanwha Machinery & Service Holdings — CEO: Kim Hyung-jo; main business: holding company for chip equipment, robotics and retail.
+ko: 한화머시너리앤서비스홀딩스 — 대표이사: 김형조; 주력 사업: 반도체 장비·로봇·유통 지주회사.
+
+jp: セア{製鋼|せいこう}{持株|もちかぶ}の{代表|だいひょう}はイ・ジュソンとチョ・ヨンビン、{主力製品|しゅりょくせいひん}は{鋼管|こうかん}。
+en: SeAH Steel Holdings — CEOs: Lee Joo-sung and Cho Young-bin; main products: steel pipes.
+ko: 세아제강지주 — 대표이사: 이주성, 조영빈; 주력 제품: 강관.
+
+jp: コスモ{化学|かがく}の{代表|だいひょう}はキム・ドゥヨン、{主力製品|しゅりょくせいひん}は{二酸化|にさんか}チタンと{正極材|せいきょくざい}{前駆体|ぜんくたい}。
+en: Cosmo Chemical — CEO: Kim Du-young; main products: titanium dioxide and cathode precursors.
+ko: 코스모화학 — 대표이사: 김두영; 주력 제품: 이산화티타늄, 양극재 전구체.
+
+jp: アセアの{代表|だいひょう}はイ・フンボムとオ・ギホ、{主力製品|しゅりょくせいひん}はセメントと{製紙|せいし}。
+en: Asia Holdings — CEOs: Lee Hoon-beom and Oh Ki-ho; main products: cement and paper.
+ko: 아세아 — 대표이사: 이훈범, 오기호; 주력 제품: 시멘트, 제지.
+
+jp: ユルチョン{化学|かがく}の{代表|だいひょう}はソン・ノクチョンとシン・ドンユン、{主力製品|しゅりょくせいひん}は{包装|ほうそう}フィルムと{二次電池|にじでんち}{用|よう}パウチ。
+en: Yulchon Chemical — CEOs: Song Nok-jung and Shin Dong-yoon; main products: packaging films and battery pouch films.
+ko: 율촌화학 — 대표이사: 송녹정, 신동윤; 주력 제품: 포장재, 2차전지 파우치 필름.
