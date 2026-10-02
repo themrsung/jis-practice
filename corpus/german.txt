@@ -1,0 +1,96 @@
+# id: german
+# title: 「歓喜の歌」ベートーヴェン第九・第四楽章（カタカナ）
+# title_en: "Ode to Joy", Beethoven Symphony No. 9, 4th movement (German in katakana)
+# title_ko: 「환희의 송가」 베토벤 교향곡 제9번 4악장 (가타카나 표기)
+# source: https://de.wikisource.org/wiki/An_die_Freude_(Schiller)
+# source: https://imslp.org/wiki/Symphony_No.9,_Op.125_(Beethoven,_Ludwig_van)
+# note: Sung text of the 4th movement (Presto) of Beethoven's Symphony No. 9, Op. 125 (1824), from the baritone's "O Freunde, nicht diese Töne!" (Beethoven's own words) through the choral setting of Schiller's "An die Freude" (1785/1803), in the order Beethoven sets it, without repeats. Beethoven's readings are used (e.g. "streng geteilt" for Schiller's "frech geteilt"). Public domain.
+# note: Katakana transliteration by German pronunciation. Scheme: voiced s = ジ/ゼ/ズ, ich-Laut = ヒ, ach-Laut = ハ, final -er = アー, ü = ユ, ö = エ. English and Korean are original translations.
+
+jp: オー・フロインデ、ニヒト・ディーゼ・テーネ！
+en: O friends, not these tones!
+ko: 오 벗들이여, 이런 소리가 아니오!
+
+jp: ゾンダーン・ラスト・ウンス・アンゲネーメレ・アンシュティメン、
+en: Rather, let us strike up more pleasing ones,
+ko: 그보다 더 즐거운 노래를 부르세,
+
+jp: ウント・フロイデンフォレレ。
+en: and more joyful.
+ko: 더욱 기쁨에 찬 노래를.
+
+jp: フロイデ！フロイデ！
+en: Joy! Joy!
+ko: 환희여! 환희여!
+
+jp: フロイデ、シェーナー・ゲッターフンケン、トホター・アウス・エリュージウム、
+en: Joy, beautiful spark of the gods, daughter of Elysium,
+ko: 환희여, 아름다운 신들의 불꽃이여, 엘리시움의 딸이여,
+
+jp: ヴィーア・ベトレーテン・フォイアートルンケン、ヒムリッシェ、ダイン・ハイリヒトゥーム！
+en: we enter, drunk with fire, heavenly one, your sanctuary!
+ko: 우리는 불꽃에 취하여 들어가노라, 천상의 존재여, 그대의 성소로!
+
+jp: ダイネ・ツァウバー・ビンデン・ヴィーダー、ヴァス・ディー・モーデ・シュトレング・ゲタイルト、
+en: Your magic binds again what custom has sternly divided;
+ko: 그대의 마법은 관습이 엄격히 갈라놓은 것을 다시 묶고,
+
+jp: アレ・メンシェン・ヴェーアデン・ブリューダー、ヴォー・ダイン・ザンフター・フリューゲル・ヴァイルト。
+en: all people become brothers where your gentle wing rests.
+ko: 그대의 부드러운 날개가 머무는 곳에서 모든 사람은 형제가 되노라.
+
+jp: ヴェーム・デア・グローセ・ヴルフ・ゲルンゲン、アイネス・フロインデス・フロイント・ツー・ザイン、
+en: Whoever has had the great fortune to be a friend's friend,
+ko: 벗의 벗이 되는 큰 행운을 얻은 자,
+
+jp: ヴェーア・アイン・ホルデス・ヴァイプ・エアルンゲン、ミッシェ・ザイネン・ユーベル・アイン！
+en: whoever has won a lovely wife, let him join in our jubilation!
+ko: 사랑스러운 아내를 얻은 자는 우리의 환호에 함께하라!
+
+jp: ヤー、ヴェーア・アウホ・ヌーア・アイネ・ゼーレ・ザイン・ネント・アウフ・デム・エーアデンルント！
+en: Yes, even one who calls but a single soul on earth his own!
+ko: 그렇다, 이 지상에 단 하나의 영혼이라도 제 것이라 부를 수 있는 자도!
+
+jp: ウント・ヴェーアス・ニー・ゲコント、デア・シュテーレ・ヴァイネント・ジヒ・アウス・ディーゼム・ブント！
+en: And whoever never could, let him steal away weeping from this union!
+ko: 그러지 못한 자는 울며 이 모임에서 몰래 떠나라!
+
+jp: フロイデ・トリンケン・アレ・ヴェーゼン・アン・デン・ブリュステン・デア・ナトゥーア、
+en: All beings drink joy at the breasts of nature;
+ko: 모든 존재는 자연의 젖가슴에서 환희를 마시고,
+
+jp: アレ・グーテン、アレ・ベーゼン・フォルゲン・イーラー・ローゼンシュプーア。
+en: all the good, all the wicked follow her trail of roses.
+ko: 선한 자도 악한 자도 모두 그녀의 장미 자취를 따르노라.
+
+jp: キュッセ・ガープ・ジー・ウンス・ウント・レーベン、アイネン・フロイント、ゲプリューフト・イム・トート、
+en: Kisses she gave us, and vines, a friend proven in death;
+ko: 그녀는 우리에게 입맞춤과 포도나무를, 죽음으로 시험받은 벗을 주었고,
+
+jp: ヴォルスト・ヴァルト・デム・ヴルム・ゲゲーベン、ウント・デア・ケールプ・シュテート・フォーア・ゴット。
+en: delight was given to the worm, and the cherub stands before God.
+ko: 벌레에게도 쾌락이 주어졌으며, 케루빔은 신 앞에 서 있노라.
+
+jp: フロー、ヴィー・ザイネ・ゾンネン・フリーゲン・ドゥルヒ・デス・ヒンメルス・プレヒトゲン・プラーン、
+en: Glad, as His suns fly through the glorious plan of the heavens,
+ko: 그분의 태양들이 하늘의 장엄한 궤도를 날아가듯 기쁘게,
+
+jp: ラウフェト、ブリューダー、オイレ・バーン、フロイディヒ、ヴィー・アイン・ヘルト・ツム・ジーゲン。
+en: run, brothers, your course, joyfully, like a hero to victory.
+ko: 형제들이여, 그대들의 길을 달려라, 승리를 향하는 영웅처럼 기쁘게.
+
+jp: ザイト・ウムシュルンゲン、ミリオーネン！ディーゼン・クス・デア・ガンツェン・ヴェルト！
+en: Be embraced, you millions! This kiss for the whole world!
+ko: 서로 껴안아라, 만민이여! 온 세상에 이 입맞춤을!
+
+jp: ブリューダー、ユーバーム・シュテルネンツェルト・ムス・アイン・リーバー・ファーター・ヴォーネン。
+en: Brothers, above the canopy of stars a loving Father must dwell.
+ko: 형제들이여, 별들의 장막 위에 사랑하는 아버지께서 계시리라.
+
+jp: イーア・シュテュルツト・ニーダー、ミリオーネン？アーネスト・ドゥー・デン・シェプファー、ヴェルト？
+en: Do you fall down, you millions? Do you sense the Creator, world?
+ko: 엎드리는가, 만민이여? 창조주를 느끼는가, 세상이여?
+
+jp: ズーフ・イーン・ユーバーム・シュテルネンツェルト！ユーバー・シュテルネン・ムス・エア・ヴォーネン。
+en: Seek Him above the canopy of stars! Above the stars He must dwell.
+ko: 별들의 장막 위에서 그분을 찾아라! 별들 위에 그분이 계시리라.

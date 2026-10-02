@@ -7,6 +7,7 @@ const CORPORA = [
   { id: 'coding', label: 'Coding — Java Vector3', file: 'corpus/coding.txt' },
   { id: 'english', label: 'English — US Constitution (カタカナ)', file: 'corpus/english.txt' },
   { id: 'nonenglish', label: 'Non-English — Weimar Art. 48 (カタカナ)', file: 'corpus/nonenglish.txt' },
+  { id: 'german', label: 'German — Beethoven 9 「歓喜の歌」 (カタカナ)', file: 'corpus/german.txt' },
   { id: 'korean', label: 'Korean — KOSPI 200', file: 'corpus/korean.txt' },
   { id: 'drill', label: 'Random kana drill', drill: true },
 ];

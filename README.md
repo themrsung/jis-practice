@@ -24,6 +24,7 @@ No timer, no WPM. Only keypresses and accuracy (correct keypresses ÷ total keyp
 | `coding.txt` | Java `Vector3 implements VectorType<Vector3>` with Japanese comments | Original |
 | `english.txt` | US Constitution (Preamble, Art. I §1–3, Bill of Rights) in katakana | National Archives transcription (public domain) |
 | `nonenglish.txt` | Weimar Constitution Art. 48 (German) in katakana | Wikisource (public domain) |
+| `german.txt` | Sung text of Beethoven Symphony No. 9, 4th mvt. (“O Freunde” + Schiller’s “An die Freude”) in katakana | Wikisource, IMSLP (public domain) |
 | `korean.txt` | KOSPI 200 companies, CEOs and main products | KRX constituents, DART company filings |
 | — | Random hiragana/katakana pair drill | Generated |
 
